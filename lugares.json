@@ -1,0 +1,271 @@
+{
+  "versao": 1,
+  "atualizadoEm": "2026-10-25T00:00:00Z",
+  "lugares": [
+    {
+      "id": "p001",
+      "nome": "Maison Mulot",
+      "categoria": "Padaria/Pâtisserie",
+      "coords": {
+        "lat": 48.8543,
+        "lng": 2.3399
+      },
+      "endereco": "76 Rue de Seine, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "https://www.maison-mulot.com/",
+      "notaFixa": "Pâtisserie clássica no 6e, famosa pelos macarons e éclairs",
+      "diario": []
+    },
+    {
+      "id": "p002",
+      "nome": "Chez Marcel",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8513,
+        "lng": 2.3295
+      },
+      "endereco": "7 Rue Stanislas, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "https://chezmarcel.cool/",
+      "notaFixa": "Bistrô descolado, ambiente despojado, culinária francesa moderna",
+      "diario": []
+    },
+    {
+      "id": "p003",
+      "nome": "Boulangerie La Parisienne",
+      "categoria": "Padaria/Pâtisserie",
+      "coords": {
+        "lat": 48.8486,
+        "lng": 2.3229
+      },
+      "endereco": "48 Rue Madame, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "http://www.boulangerielaparisienne.com/",
+      "notaFixa": "Prêmio de Melhor Baguette de Paris em 2016, uma das melhores do 6e",
+      "diario": []
+    },
+    {
+      "id": "p004",
+      "nome": "Chez André",
+      "categoria": "Brasserie",
+      "coords": {
+        "lat": 48.8682,
+        "lng": 2.3045
+      },
+      "endereco": "12 Rue Marbeuf, 75008 Paris",
+      "arrondissement": 8,
+      "fonte": "https://www.chez-andre.com/",
+      "notaFixa": "Brasserie clássica da década de 1930, perto dos Champs-Élysées",
+      "diario": []
+    },
+    {
+      "id": "p005",
+      "nome": "L'Avant Comptoir du Marché",
+      "categoria": "Bar de vinhos",
+      "coords": {
+        "lat": 48.8517,
+        "lng": 2.3376
+      },
+      "endereco": "14 Rue Lobineau, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "https://camdeborde.com/en/restaurants/avant-comptoir-du-marche",
+      "notaFixa": "Bar de vinhos do Yves Camdeborde, tapas francesas em pé, ótimo pra petiscar",
+      "diario": []
+    },
+    {
+      "id": "pmo8kilebw7zxv",
+      "nome": "Pizza Chic",
+      "categoria": "Restaurante",
+      "coords": {
+        "lat": 48.85019,
+        "lng": 2.3306996
+      },
+      "endereco": "",
+      "arrondissement": 6,
+      "fonte": "https://www.pizzachic.fr/pt/",
+      "notaFixa": "Restaurante italiano em Paris especializado em pizza. Oferece carta de vinhos e reserva de mesas online.",
+      "adicionadoEm": "2026-04-21",
+      "diario": []
+    },
+    {
+      "id": "pmo8kitpwtblan",
+      "nome": "Tiger Paris",
+      "categoria": "Bar",
+      "coords": {
+        "lat": 48.852121,
+        "lng": 2.3346154
+      },
+      "endereco": "",
+      "arrondissement": 6,
+      "fonte": "https://www.tiger-paris.com/",
+      "notaFixa": "Primeiro bar de gin de Paris localizado em Saint Germain des Prés. Oferece 100 gins, 13 coquetéis signature e mais de 1000 combinações de gin & tonic. Aberto de segunda a sábado das 17h30 às 2h.",
+      "adicionadoEm": "2026-04-21",
+      "diario": []
+    },
+    {
+      "id": "pmo8kj2cqk43at",
+      "nome": "A. Galerie",
+      "categoria": "Galeria",
+      "coords": {
+        "lat": 48.8657996,
+        "lng": 2.2991085
+      },
+      "endereco": "4 rue Léonce Reynaud, 75116 Paris",
+      "arrondissement": 16,
+      "fonte": "https://a-galerie.fr/en/",
+      "notaFixa": "Galeria de arte especializada em fotografia, exibindo artistas de renome internacional como David Yarrow, Albert Watson e Patrick Demarchelier.",
+      "adicionadoEm": "2026-04-21",
+      "diario": []
+    },
+    {
+      "id": "pmo8ks4j9fv94v",
+      "nome": "Barthelemy",
+      "categoria": "Mercado",
+      "coords": {
+        "lat": 48.8545007,
+        "lng": 2.3256491
+      },
+      "endereco": "51 rue de Grenelle, 75007 Paris",
+      "arrondissement": 7,
+      "fonte": "https://frenchglimpses.com/2021/05/21/barthelemy-the-cheese-shop-of-french-presidents/",
+      "notaFixa": "Fromagerie histórica, fornecedora oficial do Palácio do Eliseu desde 1973. Especializada em queijos franceses artesanais, com destaque para Fontainebleau.",
+      "adicionadoEm": "2026-04-21",
+      "diario": []
+    },
+    {
+      "id": "pmo8ksbit8pgpq",
+      "nome": "Marie Anne Cantin",
+      "categoria": "Restaurante",
+      "coords": {
+        "lat": 48.8564823,
+        "lng": 2.3056302
+      },
+      "endereco": "12 rue du Champ de Mars, 75007 Paris",
+      "arrondissement": 7,
+      "fonte": "https://cantin.fr/",
+      "notaFixa": "Fromagerie affineur depuis 1950 specializada em queijos franceses tradicionais e AOP. Oferece degustações, buffês de queijos e entrega em 24h.",
+      "adicionadoEm": "2026-04-21",
+      "diario": []
+    },
+    {
+      "id": "pmo8ksxo8xargj",
+      "nome": "Centquatre-Paris",
+      "categoria": "Galeria",
+      "coords": {
+        "lat": 48.8900491,
+        "lng": 2.3706808
+      },
+      "endereco": "5 rue Curial, 75019 Paris",
+      "arrondissement": 19,
+      "fonte": "https://www.104.fr/en/",
+      "notaFixa": "Estabelecimento artístico e cultural inovador com galerias, exposições, performances, café e espaços de acesso livre para as artes.",
+      "adicionadoEm": "2026-04-21",
+      "diario": []
+    },
+    {
+      "id": "pmo8vx6b6egbs5",
+      "nome": "Au Petit Suisse",
+      "categoria": "Brasserie",
+      "coords": {
+        "lat": 48.8491268,
+        "lng": 2.3392595
+      },
+      "endereco": "16 Rue de Vaugirard, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "https://aupetitsuisse.fr/fr",
+      "notaFixa": "Brasserie parisiense autêntica no bairro da Sorbonne com terrasse voltada para os jardins de Luxemburgo. Ponto de encontro para estudantes e professores.",
+      "adicionadoEm": "2026-04-21",
+      "diario": []
+    },
+    {
+      "id": "pmo8vxbd3n7xm6",
+      "nome": "Le Comptoir du Relais Saint Germain",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8518946,
+        "lng": 2.3388464
+      },
+      "endereco": "9 Carrefour de l'Odéon, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "https://www.hotel-paris-relais-saint-germain.com/restaurant-le-comptoir",
+      "notaFixa": "Bistrô parisino criado por Yves Camdeborde em 2004. Cozinha generosa com produtos selecionados pelo chef e carta de vinhos 100% naturais. Sem reserva.",
+      "adicionadoEm": "2026-04-21",
+      "diario": []
+    },
+    {
+      "id": "pmo8vxnheh57a8",
+      "nome": "Le Hibou",
+      "categoria": "Brasserie",
+      "coords": {
+        "lat": 48.851932,
+        "lng": 2.3385696
+      },
+      "endereco": "16 Carrefour de l'Odéon, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "https://www.lehibou-paris.com/en/",
+      "notaFixa": "Brasserie-restaurante no Odéon com decoração broc chic, poltronas e paredes azul-pato. Oferece café, almoço, coquetéis e jantar refinado em ambiente acolhedor.",
+      "adicionadoEm": "2026-04-21",
+      "diario": []
+    },
+    {
+      "id": "pmo8vxt5aet7h3",
+      "nome": "L'Épicerie d'Olivier Pitou",
+      "categoria": "Concept store",
+      "coords": {
+        "lat": 48.8566666,
+        "lng": 2.3320351
+      },
+      "endereco": "23 rue des Saints-Pères, 75006 Paris",
+      "arrondissement": 7,
+      "fonte": "https://www.carrerivegauche.com/fr/project/lepicerie-dolivier-pitou/",
+      "notaFixa": "Seleção premium de diversos produtos. Destaque para a seção de produtos delicatessen e artigos gourmet de qualidade.",
+      "adicionadoEm": "2026-04-21",
+      "diario": []
+    },
+    {
+      "id": "pmo8vy8r4e4o8g",
+      "nome": "La Procure",
+      "categoria": "Livraria",
+      "coords": {
+        "lat": 48.8489706,
+        "lng": 2.3521444
+      },
+      "endereco": "",
+      "arrondissement": 5,
+      "fonte": "https://www.laprocure.com/",
+      "notaFixa": "Livraria religiosa cristã especializada em livros, DVD, CD, Bíblias, sacramentos, espiritualidade e literatura.",
+      "adicionadoEm": "2026-04-21",
+      "diario": []
+    },
+    {
+      "id": "pmo8vybww88ut9",
+      "nome": "Librairie Gallimard",
+      "categoria": "Livraria",
+      "coords": {
+        "lat": 48.8544383,
+        "lng": 2.3262438
+      },
+      "endereco": "",
+      "arrondissement": 7,
+      "fonte": "https://www.tripadvisor.com/Attraction_Review-g187147-d25340534-Reviews-Librairie_Gallimard-Paris_Ile_de_France.html",
+      "adicionadoEm": "2026-04-21",
+      "notaFixa": "",
+      "diario": []
+    },
+    {
+      "id": "pmvo61qx0plrdr",
+      "nome": "Polidor",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.84972,
+        "lng": 2.34
+      },
+      "endereco": "41 Rue Monsieur-le-Prince, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "https://www.polidor.com/",
+      "notaFixa": "Crémerie aberta em 1845, bistrô desde 1890. Verlaine, Rimbaud, Joyce e Hemingway comiam aqui; aparece em Midnight in Paris. Mesas compartilhadas, cozinha de bistrô clássica (œufs mayo, bœuf bourguignon, confit de canard, tarte Tatin). Preço baixo pro bairro. Historicamente não aceitava cartão: levar dinheiro.",
+      "diario": [],
+      "adicionadoEm": "2026-10-25"
+    }
+  ]
+}
