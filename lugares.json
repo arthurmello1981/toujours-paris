@@ -80,7 +80,7 @@
         "lat": 48.85019,
         "lng": 2.3306996
       },
-      "endereco": "",
+      "endereco": "13 Rue de Mézières, 75006 Paris",
       "arrondissement": 6,
       "fonte": "https://www.pizzachic.fr/pt/",
       "notaFixa": "Restaurante italiano em Paris especializado em pizza. Oferece carta de vinhos e reserva de mesas online.",
@@ -95,7 +95,7 @@
         "lat": 48.852121,
         "lng": 2.3346154
       },
-      "endereco": "",
+      "endereco": "13 Rue Princesse, 75006 Paris",
       "arrondissement": 6,
       "fonte": "https://www.tiger-paris.com/",
       "notaFixa": "Primeiro bar de gin de Paris localizado em Saint Germain des Prés. Oferece 100 gins, 13 coquetéis signature e mais de 1000 combinações de gin & tonic. Aberto de segunda a sábado das 17h30 às 2h.",
@@ -227,11 +227,11 @@
       "nome": "La Procure",
       "categoria": "Livraria",
       "coords": {
-        "lat": 48.8489706,
-        "lng": 2.3521444
+        "lat": 48.850209,
+        "lng": 2.3322023
       },
-      "endereco": "",
-      "arrondissement": 5,
+      "endereco": "3 Rue de Mézières, 75006 Paris",
+      "arrondissement": 6,
       "fonte": "https://www.laprocure.com/",
       "notaFixa": "Livraria religiosa cristã especializada em livros, DVD, CD, Bíblias, sacramentos, espiritualidade e literatura.",
       "adicionadoEm": "2026-04-21",
@@ -245,7 +245,7 @@
         "lat": 48.8544383,
         "lng": 2.3262438
       },
-      "endereco": "",
+      "endereco": "15 Boulevard Raspail, 75007 Paris",
       "arrondissement": 7,
       "fonte": "https://www.tripadvisor.com/Attraction_Review-g187147-d25340534-Reviews-Librairie_Gallimard-Paris_Ile_de_France.html",
       "adicionadoEm": "2026-04-21",
