@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizadoEm": "2026-10-25T00:00:00Z",
+  "atualizadoEm": "2026-10-29T00:00:00Z",
   "lugares": [
     {
       "id": "p001",
@@ -266,6 +266,111 @@
       "notaFixa": "Crémerie aberta em 1845, bistrô desde 1890. Verlaine, Rimbaud, Joyce e Hemingway comiam aqui; aparece em Midnight in Paris. Mesas compartilhadas, cozinha de bistrô clássica (œufs mayo, bœuf bourguignon, confit de canard, tarte Tatin). Preço baixo pro bairro. Historicamente não aceitava cartão: levar dinheiro.",
       "diario": [],
       "adicionadoEm": "2026-10-25"
+    },
+    {
+      "id": "pmvto1pm1kgjx1g",
+      "nome": "Le Comptoir d'Antan",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8828571,
+        "lng": 2.3380891
+      },
+      "endereco": "5 Rue Houdon, 75018 Paris",
+      "arrondissement": 18,
+      "fonte": "https://www.instagram.com/comptoirdantan_pigalle/",
+      "notaFixa": "Pedir: aligot e mousse au chocolat servida à concha. Pigalle/Abbesses. Abre todos os dias. Indicação do @le_couteau (out/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-10-29"
+    },
+    {
+      "id": "pmvto1pm2dapmqw",
+      "nome": "Chouchou (Chouchou Hôtel)",
+      "categoria": "Restaurante",
+      "coords": {
+        "lat": 48.8720378,
+        "lng": 2.3348274
+      },
+      "endereco": "11 Rue du Helder, 75009 Paris",
+      "arrondissement": 9,
+      "fonte": "https://www.instagram.com/chouchouhotel/",
+      "notaFixa": "Restaurante do Chouchou Hôtel. Pedir: poulet rôti no brunch de domingo (domingo só tem almoço). Indicação do @le_couteau (out/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-10-29"
+    },
+    {
+      "id": "pmvto1pm3jxw3tk",
+      "nome": "JUSTE Table de bord de mer",
+      "categoria": "Restaurante",
+      "coords": {
+        "lat": 48.875119,
+        "lng": 2.338531
+      },
+      "endereco": "48 Rue Laffitte, 75009 Paris",
+      "arrondissement": 9,
+      "fonte": "https://www.instagram.com/juste_producteur/",
+      "notaFixa": "Frutos do mar. Pedir: plateaux de fruits de mer. Fecha domingo; segunda só jantar. Indicação do @le_couteau (out/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-10-29"
+    },
+    {
+      "id": "pmvto1pm4fgoj3h",
+      "nome": "Au Bon Coin",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8381207,
+        "lng": 2.351813
+      },
+      "endereco": "21 Rue de la Collégiale, 75005 Paris",
+      "arrondissement": 5,
+      "fonte": "https://www.instagram.com/bistrotauboncoinparis/",
+      "notaFixa": "Pedir: formule midi + île flottante servida à concha. Perto dos Gobelins, fora do circuito turístico. Indicação do @le_couteau (out/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-10-29"
+    },
+    {
+      "id": "pmvto1pm5n2mkde",
+      "nome": "Crêperie Gisèle",
+      "categoria": "Restaurante",
+      "coords": {
+        "lat": 48.8516607,
+        "lng": 2.3314241
+      },
+      "endereco": "65 Rue de Rennes, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "https://www.instagram.com/creperie_gisele/",
+      "notaFixa": "Crêperie. Pedir: galettes bretonnes. Indicação do @le_couteau (out/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-10-29"
+    },
+    {
+      "id": "pmvto1pm6e4gs3b",
+      "nome": "Le Maresquier",
+      "categoria": "Brasserie",
+      "coords": {
+        "lat": 48.8755881,
+        "lng": 2.3199012
+      },
+      "endereco": "12 Place Saint-Augustin, 75008 Paris",
+      "arrondissement": 8,
+      "fonte": "https://www.instagram.com/le_maresquier/",
+      "notaFixa": "Pedir: pâté en croûte. Na praça da igreja Saint-Augustin. Fecha domingo. Indicação do @le_couteau (out/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-10-29"
+    },
+    {
+      "id": "pmvto1pm7562a6e",
+      "nome": "La Belle Maison",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8872868,
+        "lng": 2.3362204
+      },
+      "endereco": "88 Rue Lepic, 75018 Paris",
+      "arrondissement": 18,
+      "fonte": "https://www.instagram.com/labellemaison.paris/",
+      "notaFixa": "Pedir: saucisson brioché. Montmartre. Fecha terça e quarta. Indicação do @le_couteau (out/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-10-29"
     }
   ]
 }
