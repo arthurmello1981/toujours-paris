@@ -1,14 +1,14 @@
 {
   "versao": 1,
-  "atualizadoEm": "2026-10-29T00:00:00Z",
+  "atualizadoEm": "2026-10-30T23:30:00Z",
   "lugares": [
     {
       "id": "p001",
       "nome": "Maison Mulot",
       "categoria": "Padaria/Pâtisserie",
       "coords": {
-        "lat": 48.8543,
-        "lng": 2.3399
+        "lat": 48.8519792,
+        "lng": 2.3369355
       },
       "endereco": "76 Rue de Seine, 75006 Paris",
       "arrondissement": 6,
@@ -21,8 +21,8 @@
       "nome": "Chez Marcel",
       "categoria": "Bistrô",
       "coords": {
-        "lat": 48.8513,
-        "lng": 2.3295
+        "lat": 48.8437602,
+        "lng": 2.3284019
       },
       "endereco": "7 Rue Stanislas, 75006 Paris",
       "arrondissement": 6,
@@ -35,8 +35,8 @@
       "nome": "Boulangerie La Parisienne",
       "categoria": "Padaria/Pâtisserie",
       "coords": {
-        "lat": 48.8486,
-        "lng": 2.3229
+        "lat": 48.8482096,
+        "lng": 2.3314271
       },
       "endereco": "48 Rue Madame, 75006 Paris",
       "arrondissement": 6,
@@ -49,8 +49,8 @@
       "nome": "Chez André",
       "categoria": "Brasserie",
       "coords": {
-        "lat": 48.8682,
-        "lng": 2.3045
+        "lat": 48.8677736,
+        "lng": 2.3027628
       },
       "endereco": "12 Rue Marbeuf, 75008 Paris",
       "arrondissement": 8,
@@ -63,8 +63,8 @@
       "nome": "L'Avant Comptoir du Marché",
       "categoria": "Bar de vinhos",
       "coords": {
-        "lat": 48.8517,
-        "lng": 2.3376
+        "lat": 48.8517684,
+        "lng": 2.3354537
       },
       "endereco": "14 Rue Lobineau, 75006 Paris",
       "arrondissement": 6,
@@ -216,7 +216,7 @@
         "lng": 2.3320351
       },
       "endereco": "23 rue des Saints-Pères, 75006 Paris",
-      "arrondissement": 7,
+      "arrondissement": 6,
       "fonte": "https://www.carrerivegauche.com/fr/project/lepicerie-dolivier-pitou/",
       "notaFixa": "Seleção premium de diversos produtos. Destaque para a seção de produtos delicatessen e artigos gourmet de qualidade.",
       "adicionadoEm": "2026-04-21",
@@ -257,8 +257,8 @@
       "nome": "Polidor",
       "categoria": "Bistrô",
       "coords": {
-        "lat": 48.84972,
-        "lng": 2.34
+        "lat": 48.8498263,
+        "lng": 2.34018
       },
       "endereco": "41 Rue Monsieur-le-Prince, 75006 Paris",
       "arrondissement": 6,
