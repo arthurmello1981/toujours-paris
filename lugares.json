@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizadoEm": "2026-10-31T21:12:43Z",
+  "atualizadoEm": "2026-10-31T21:20:58Z",
   "lugares": [
     {
       "id": "p001",
@@ -414,21 +414,6 @@
       "arrondissement": 1,
       "fonte": "https://www.instagram.com/melt_slow_smoked_barbecue/",
       "notaFixa": "Sanduíche de barbecue texano. Pedir: pastrami. A partir de 7€. Abre todo dia. Outra unidade no 9e (Rochechouart). Indicação de lista no Instagram (out/2026).",
-      "diario": [],
-      "adicionadoEm": "2026-10-31"
-    },
-    {
-      "id": "pmvwwdm5pbzvki",
-      "nome": "L'Atelier Entrecôte & Volaille",
-      "categoria": "Restaurante",
-      "coords": {
-        "lat": 48.8683682,
-        "lng": 2.3432593
-      },
-      "endereco": "128 Rue Réaumur, 75002 Paris",
-      "arrondissement": 2,
-      "fonte": "https://www.instagram.com/latelierentrecoteetvolaille/",
-      "notaFixa": "Fórmula de entrecôte com molho e fritas, 27,5€. Abre todo dia. Indicação de lista no Instagram (out/2026).",
       "diario": [],
       "adicionadoEm": "2026-10-31"
     },
