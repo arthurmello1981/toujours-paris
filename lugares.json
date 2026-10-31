@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizadoEm": "2026-10-30T23:30:00Z",
+  "atualizadoEm": "2026-10-31T21:12:43Z",
   "lugares": [
     {
       "id": "p001",
@@ -371,6 +371,96 @@
       "notaFixa": "Pedir: saucisson brioché. Montmartre. Fecha terça e quarta. Indicação do @le_couteau (out/2026).",
       "diario": [],
       "adicionadoEm": "2026-10-29"
+    },
+    {
+      "id": "pmvwwdm5mhjrhq",
+      "nome": "Lombem",
+      "categoria": "Restaurante",
+      "coords": {
+        "lat": 48.8707331,
+        "lng": 2.3417383
+      },
+      "endereco": "22 Passage des Panoramas, 75002 Paris",
+      "arrondissement": 2,
+      "fonte": "https://www.instagram.com/lombem.paris/",
+      "notaFixa": "Carnes na brasa (fogo de lenha). Dentro da Passage des Panoramas. 20-35€/pessoa. Fecha domingo. Nota Google 4,2, a mais baixa da lista. Indicação de lista no Instagram (out/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-10-31"
+    },
+    {
+      "id": "pmvwwdm5nrcx0g",
+      "nome": "Melt Deli Rochechouart",
+      "categoria": "Street food",
+      "coords": {
+        "lat": 48.8820489,
+        "lng": 2.3468318
+      },
+      "endereco": "76 Rue Marguerite de Rochechouart, 75009 Paris",
+      "arrondissement": 9,
+      "fonte": "https://www.instagram.com/melt_slow_smoked_barbecue/",
+      "notaFixa": "Sanduíche de barbecue texano. Pedir: pastrami. A partir de 7€. Abre todo dia. Outra unidade em Les Halles. Indicação de lista no Instagram (out/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-10-31"
+    },
+    {
+      "id": "pmvwwdm5ot3793",
+      "nome": "Melt Deli Les Halles",
+      "categoria": "Street food",
+      "coords": {
+        "lat": 48.8601079,
+        "lng": 2.3466291
+      },
+      "endereco": "20 Rue des Halles, 75001 Paris",
+      "arrondissement": 1,
+      "fonte": "https://www.instagram.com/melt_slow_smoked_barbecue/",
+      "notaFixa": "Sanduíche de barbecue texano. Pedir: pastrami. A partir de 7€. Abre todo dia. Outra unidade no 9e (Rochechouart). Indicação de lista no Instagram (out/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-10-31"
+    },
+    {
+      "id": "pmvwwdm5pbzvki",
+      "nome": "L'Atelier Entrecôte & Volaille",
+      "categoria": "Restaurante",
+      "coords": {
+        "lat": 48.8683682,
+        "lng": 2.3432593
+      },
+      "endereco": "128 Rue Réaumur, 75002 Paris",
+      "arrondissement": 2,
+      "fonte": "https://www.instagram.com/latelierentrecoteetvolaille/",
+      "notaFixa": "Fórmula de entrecôte com molho e fritas, 27,5€. Abre todo dia. Indicação de lista no Instagram (out/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-10-31"
+    },
+    {
+      "id": "pmvwwdm5q8m5yu",
+      "nome": "Marie Akaneya",
+      "categoria": "Restaurante",
+      "coords": {
+        "lat": 48.8707852,
+        "lng": 2.3270765
+      },
+      "endereco": "12 Rue Godot de Mauroy, 75009 Paris",
+      "arrondissement": 9,
+      "fonte": "https://www.instagram.com/marieakaneya/",
+      "notaFixa": "Churrasco japonês de wagyu e Kobe. A partir de 150€/pessoa. Fecha segunda; almoço só sábado. Indicação de lista no Instagram (out/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-10-31"
+    },
+    {
+      "id": "pmvwwdm5rd18zu",
+      "nome": "Le Coq & Fils",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8871994,
+        "lng": 2.3371844
+      },
+      "endereco": "98 Rue Lepic, 75018 Paris",
+      "arrondissement": 18,
+      "fonte": "https://www.instagram.com/lecoq_fils/",
+      "notaFixa": "Bistrô de aves francesas. Pedir: frango assado ou coq au vin. 40-60€/pessoa. Abre todo dia. Na mesma rua da La Belle Maison. Indicação de lista no Instagram (out/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-10-31"
     }
   ]
 }
