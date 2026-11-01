@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizadoEm": "2026-10-31T21:20:58Z",
+  "atualizadoEm": "2026-11-01T23:47:36Z",
   "lugares": [
     {
       "id": "p001",
@@ -446,6 +446,51 @@
       "notaFixa": "Bistrô de aves francesas. Pedir: frango assado ou coq au vin. 40-60€/pessoa. Abre todo dia. Na mesma rua da La Belle Maison. Indicação de lista no Instagram (out/2026).",
       "diario": [],
       "adicionadoEm": "2026-10-31"
+    },
+    {
+      "id": "pmvyhcngqmcjz2",
+      "nome": "Caractère de Cochon",
+      "categoria": "Street food",
+      "coords": {
+        "lat": 48.8626743,
+        "lng": 2.3624648
+      },
+      "endereco": "42 Rue Charlot, 75003 Paris",
+      "arrondissement": 3,
+      "fonte": "https://www.instagram.com/caracteredecochonparis/",
+      "notaFixa": "Charcutaria de sanduíche de jambon na baguete, ao lado do Marché des Enfants-Rouges. Monta o sanduíche no balcão; sai 18-24€. Fila longa. Fecha segunda e terça. Nota 9,3 na lista do @beli_eats (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-01"
+    },
+    {
+      "id": "pmvyhcngqlvfg3",
+      "nome": "Bistrot Paul Bert",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8522102,
+        "lng": 2.3850177
+      },
+      "endereco": "18 Rue Paul Bert, 75011 Paris",
+      "arrondissement": 11,
+      "fonte": "https://www.instagram.com/bistrotpaulbert/",
+      "notaFixa": "Bistrô clássico. Pedir: steak au poivre. Sem reserva online: ligar (+33 1 43 72 24 01) ou chegar 15-20 min antes de abrir. Fecha domingo e segunda. Indicação do @beli_eats (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-01"
+    },
+    {
+      "id": "pmvyhcngqw60l9",
+      "nome": "La Renommée",
+      "categoria": "Restaurante",
+      "coords": {
+        "lat": 48.861127,
+        "lng": 2.3431465
+      },
+      "endereco": "95 Rue Saint-Honoré, 75001 Paris",
+      "arrondissement": 1,
+      "fonte": "https://www.instagram.com/renommee_paris/",
+      "notaFixa": "Steakhouse/bistrô aberto em 2024 em prédio histórico; tem bar escondido no subsolo. Pedir: filet au poivre e escargots. Reserva difícil; chegar 17h30 para tentar sem. Almoço só sexta e sábado. Indicação do @beli_eats (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-01"
     }
   ]
 }
