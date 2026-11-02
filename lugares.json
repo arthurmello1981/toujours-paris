@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizadoEm": "2026-11-01T23:47:36Z",
+  "atualizadoEm": "2026-11-02T15:18:01Z",
   "lugares": [
     {
       "id": "p001",
@@ -491,6 +491,66 @@
       "notaFixa": "Steakhouse/bistrô aberto em 2024 em prédio histórico; tem bar escondido no subsolo. Pedir: filet au poivre e escargots. Reserva difícil; chegar 17h30 para tentar sem. Almoço só sexta e sábado. Indicação do @beli_eats (nov/2026).",
       "diario": [],
       "adicionadoEm": "2026-11-01"
+    },
+    {
+      "id": "pmvzel6ntn9qgd",
+      "nome": "Chez Pradel",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8939453,
+        "lng": 2.3350601
+      },
+      "endereco": "168 Rue Ordener, 75018 Paris",
+      "arrondissement": 18,
+      "fonte": "",
+      "notaFixa": "Bistrô de bairro (o post chama de Brasserie Pradel). Fórmula de almoço barata, cardápio na lousa, porção generosa. Fila no almoço: reservar. Fecha domingo e segunda. Lista de brasseries do Instagram (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmvzel6o3i0az2",
+      "nome": "Le Café du Commerce",
+      "categoria": "Brasserie",
+      "coords": {
+        "lat": 48.8464167,
+        "lng": 2.2954806
+      },
+      "endereco": "51 Rue du Commerce, 75015 Paris",
+      "arrondissement": 15,
+      "fonte": "https://www.instagram.com/cafeducommerceparis/",
+      "notaFixa": "Brasserie grande em três andares em volta de um salão central com teto aberto. Cozinha clássica (confit de canard, soupe à l'oignon). Pedir mesa no 2º andar. Aberto todo dia. Lista de brasseries do Instagram (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmvzel6odb6js9",
+      "nome": "Au Pied de Cochon",
+      "categoria": "Brasserie",
+      "coords": {
+        "lat": 48.8635176,
+        "lng": 2.3437221
+      },
+      "endereco": "6 Rue Coquillière, 75001 Paris",
+      "arrondissement": 1,
+      "fonte": "https://www.instagram.com/pieddecochon/",
+      "notaFixa": "Instituição dos Halles desde 1947. Pedir: o pied de cochon, escargots, gratinée. Programa de madrugada: o post diz 24h, o Google mostra 8h às 5h. Caro pro que é. Lista de brasseries do Instagram (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmvzel6oocvzz8",
+      "nome": "Bofinger",
+      "categoria": "Brasserie",
+      "coords": {
+        "lat": 48.8539497,
+        "lng": 2.3678627
+      },
+      "endereco": "5-7 Rue de la Bastille, 75004 Paris",
+      "arrondissement": 4,
+      "fonte": "https://www.instagram.com/brasserie_bofinger/",
+      "notaFixa": "Brasserie alsaciana fundada em 1864, salão Belle Époque com cúpula de vitral. Pedir: choucroute Bofinger, frutos do mar, baba au rhum. Pedir mesa no térreo, embaixo da cúpula. Perto da Opéra Bastille. Lista de brasseries do Instagram (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
     }
   ]
 }
