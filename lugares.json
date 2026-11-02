@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizadoEm": "2026-11-02T15:18:01Z",
+  "atualizadoEm": "2026-11-02T15:34:57Z",
   "lugares": [
     {
       "id": "p001",
@@ -549,6 +549,156 @@
       "arrondissement": 4,
       "fonte": "https://www.instagram.com/brasserie_bofinger/",
       "notaFixa": "Brasserie alsaciana fundada em 1864, salão Belle Époque com cúpula de vitral. Pedir: choucroute Bofinger, frutos do mar, baba au rhum. Pedir mesa no térreo, embaixo da cúpula. Perto da Opéra Bastille. Lista de brasseries do Instagram (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmvzf6yf5cvjgs",
+      "nome": "La Tour de Montlhéry (Chez Denise)",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.861534,
+        "lng": 2.344001
+      },
+      "endereco": "5 Rue des Prouvaires, 75001 Paris",
+      "arrondissement": 1,
+      "fonte": "https://fr.gaultmillau.com/fr/restaurants/la-tour-de-montlhery",
+      "notaFixa": "Último bistrô dos antigos Halles. Porção enorme, miúdos e carne: os à moelle, rognons, andouillette, pied de porc, pot-au-feu; vinho à la ficelle. Aberto todo dia, 12h à meia-noite. Reserva só por telefone (+33 1 42 36 21 82). Comprado em 2020 pelo grupo Bertrand. O favorito do Arthur, régua dos outros.",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmvzf6yffer4or",
+      "nome": "Robert et Louise",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8590662,
+        "lng": 2.3594996
+      },
+      "endereco": "64 Rue Vieille du Temple, 75003 Paris",
+      "arrondissement": 3,
+      "fonte": "",
+      "notaFixa": "Carne assada em fogo de lenha na sala. Pedir: côte de bœuf para dois, saucisses, andouillette. Fecha terça e quarta; segunda, quinta e sexta só jantar. Busca do Claude no perfil Chez Denise (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmvzf6yfq22nst",
+      "nome": "Au Moulin à Vent",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8485574,
+        "lng": 2.3547648
+      },
+      "endereco": "20 Rue des Fossés Saint-Bernard, 75005 Paris",
+      "arrondissement": 5,
+      "fonte": "",
+      "notaFixa": "Bistrô à moda antiga, público local. Pedir: œuf mayo, ris de veau, os à moelle, côte de bœuf maturada. Carta de vinhos boa. Fecha domingo e segunda. Busca do Claude no perfil Chez Denise (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmvzf6yg0b9mqb",
+      "nome": "Le Balzar",
+      "categoria": "Brasserie",
+      "coords": {
+        "lat": 48.8498816,
+        "lng": 2.3433813
+      },
+      "endereco": "49 Rue des Écoles, 75005 Paris",
+      "arrondissement": 5,
+      "fonte": "",
+      "notaFixa": "Brasserie de 1890 ao lado da Sorbonne, frequentada por professores, alunos e editores. Art déco, banquettes de moleskine. Pedir: tartare, escargots, poulet rôti. Aberto todo dia, 8h30 às 23h30. Busca do Claude no perfil Chez Denise (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmvzf6ygaxut4y",
+      "nome": "Chez Paul",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.85282,
+        "lng": 2.374342
+      },
+      "endereco": "13 Rue de Charonne, 75011 Paris",
+      "arrondissement": 11,
+      "fonte": "",
+      "notaFixa": "Bistrô antigo da Bastille, aberto todo dia até 0h30: o mais parecido com o Denise no horário. Pedir: os à moelle, steak au poivre, tarte Tatin. Busca do Claude no perfil Chez Denise (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmvzf6ygknhji4",
+      "nome": "Auberge Pyrénées-Cévennes",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.867897,
+        "lng": 2.3688557
+      },
+      "endereco": "106 Rue de la Folie-Méricourt, 75011 Paris",
+      "arrondissement": 11,
+      "fonte": "",
+      "notaFixa": "Bistrô rústico do sudoeste. Pedir: cassoulet (porção enorme), ris de veau. Horário incerto no Google: ligar antes (+33 1 43 57 33 78). Cuidado com o preço da água e do vinho da casa. Busca do Claude no perfil Chez Denise (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmvzf6yguple2t",
+      "nome": "Bistrot La Renaissance",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8958439,
+        "lng": 2.3397433
+      },
+      "endereco": "112 Rue Championnet, 75018 Paris",
+      "arrondissement": 18,
+      "fonte": "",
+      "notaFixa": "Bistrô de bairro com balcão de cobre, cenário de Les Ripoux e Inglourious Basterds. Aberto todo dia, 8h às 2h. Pedir: côte de porc, tartare. Busca do Claude no perfil Chez Denise (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmvzf6yh5ssbrh",
+      "nome": "Le Mesturet",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.869075,
+        "lng": 2.33853
+      },
+      "endereco": "77 Rue de Richelieu, 75002 Paris",
+      "arrondissement": 2,
+      "fonte": "",
+      "notaFixa": "Bistrô perto da Bourse, tudo feito na casa com produto fresco. Pedir: escargots, ragoût de veau, Paris-Brest. Aberto todo dia, 12h às 23h. Busca do Claude no perfil Chez Denise (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmvzf6yhf6pa4l",
+      "nome": "Chez Savy",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.867046,
+        "lng": 2.307571
+      },
+      "endereco": "23 Rue Bayard, 75008 Paris",
+      "arrondissement": 8,
+      "fonte": "",
+      "notaFixa": "Bistrô aveyronês dos anos 1920 no Triângulo de Ouro. Pedir: steak, pâté, soupe à l'oignon. Fecha sábado e domingo. Busca do Claude no perfil Chez Denise (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmvzf6yhpvikn1",
+      "nome": "Severo",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8319919,
+        "lng": 2.3245706
+      },
+      "endereco": "8 Rue des Plantes, 75014 Paris",
+      "arrondissement": 14,
+      "fonte": "",
+      "notaFixa": "Bistrô pequeno de carne maturada, com dono à moda antiga. Pedir: steak au poivre, frites, tartare. Carta de vinhos grande. Reserva com sinal. Fecha sábado e domingo; quarta só jantar. Busca do Claude no perfil Chez Denise (nov/2026).",
       "diario": [],
       "adicionadoEm": "2026-11-02"
     }
