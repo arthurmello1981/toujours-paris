@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizadoEm": "2026-11-02T15:34:57Z",
+  "atualizadoEm": "2026-11-04T00:32:28Z",
   "lugares": [
     {
       "id": "p001",
@@ -701,6 +701,81 @@
       "notaFixa": "Bistrô pequeno de carne maturada, com dono à moda antiga. Pedir: steak au poivre, frites, tartare. Carta de vinhos grande. Reserva com sinal. Fecha sábado e domingo; quarta só jantar. Busca do Claude no perfil Chez Denise (nov/2026).",
       "diario": [],
       "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmw1du2cstqizf",
+      "nome": "Dayclub Sandwich & Coffee",
+      "categoria": "Street food",
+      "coords": {
+        "lat": 48.8746267,
+        "lng": 2.3428482
+      },
+      "endereco": "12 Rue Cadet, 75009 Paris",
+      "arrondissement": 9,
+      "fonte": "https://www.instagram.com/dayclub.coffee/",
+      "notaFixa": "Café de sanduíches caseiros. Pedir: sanduíche Hera e matcha. Sanduíche 9,50€, fórmula 13,50€. Só de dia: 8h30 às 17h (fim de semana abre mais tarde). Nota Google 4,8 com só 64 avaliações, casa nova. Indicação de lista no Instagram (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-03"
+    },
+    {
+      "id": "pmw1du2csbr87h",
+      "nome": "Cāntīng",
+      "categoria": "Restaurante",
+      "coords": {
+        "lat": 48.87695,
+        "lng": 2.3326825
+      },
+      "endereco": "64 Rue Saint-Lazare, 75009 Paris",
+      "arrondissement": 9,
+      "fonte": "https://www.instagram.com/canting.club/",
+      "notaFixa": "Cantina com toque asiático, monta a bandeja. Porção grande. Fórmula a partir de 10,50€. Só almoço, 11h45 às 14h30. Fecha sábado e domingo. Indicação de lista no Instagram (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-03"
+    },
+    {
+      "id": "pmw1du2cstdi3d",
+      "nome": "Armande Lepic",
+      "categoria": "Street food",
+      "coords": {
+        "lat": 48.8851189,
+        "lng": 2.3343503
+      },
+      "endereco": "24 Rue Lepic, 75018 Paris",
+      "arrondissement": 18,
+      "fonte": "https://www.instagram.com/armandemontmartre/",
+      "notaFixa": "Sanduicheria pequena, produto de qualidade. Pedir: croque monsieur, jambon-beurre, cookie. A partir de 6€. Mesma dona do café Armande (26 Rue Tholozé), ali do lado. Indicação de lista no Instagram (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-03"
+    },
+    {
+      "id": "pmw1du2csamlax",
+      "nome": "Will's Deli",
+      "categoria": "Street food",
+      "coords": {
+        "lat": 48.8697614,
+        "lng": 2.347983
+      },
+      "endereco": "28 Rue Poissonnière, 75002 Paris",
+      "arrondissement": 2,
+      "fonte": "https://www.instagram.com/wills.deli/",
+      "notaFixa": "Deli de Nova York. Pedir: pastrami ou Reuben; cheesecake. A partir de 11€. Seg e ter só almoço; qua a sáb até 22h. Fecha domingo. Perto do Grand Rex. Indicação de lista no Instagram (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-03"
+    },
+    {
+      "id": "pmw1du2cspk8fq",
+      "nome": "Nissi",
+      "categoria": "Street food",
+      "coords": {
+        "lat": 48.8807044,
+        "lng": 2.3350537
+      },
+      "endereco": "4 Rue Pierre Fontaine, 75009 Paris",
+      "arrondissement": 9,
+      "fonte": "https://www.instagram.com/nissi.paris/",
+      "notaFixa": "Sanduíche mediterrâneo no pão chalá. A partir de 11€; prato custa mais que o sanduíche. Abre todo dia, 12h às 23h. Avaliações divididas: o pão é unanimidade, o recheio nem sempre. Indicação de lista no Instagram (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-03"
     }
   ]
 }
