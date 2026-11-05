@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizadoEm": "2026-11-05T02:39:34Z",
+  "atualizadoEm": "2026-11-05",
   "lugares": [
     {
       "id": "p001",
@@ -776,6 +776,21 @@
       "notaFixa": "Sanduíche mediterrâneo no pão chalá. A partir de 11€; prato custa mais que o sanduíche. Abre todo dia, 12h às 23h. Avaliações divididas: o pão é unanimidade, o recheio nem sempre. Indicação de lista no Instagram (nov/2026).",
       "diario": [],
       "adicionadoEm": "2026-11-03"
+    },
+    {
+      "id": "pmw41vemgpde2t",
+      "nome": "Maison Verot",
+      "categoria": "Mercado",
+      "coords": {
+        "lat": 48.846907,
+        "lng": 2.327144
+      },
+      "endereco": "3 Rue Notre-Dame des Champs, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "",
+      "notaFixa": "Charcutaria/traiteur de Gilles Verot, referência em pâté en croûte (premiado) e fromage de tête; também presuntos, saucisson e salsichas. Caro, qualidade alta. Ter a sáb 9h às 20h (sáb até 19h30); fecha dom e seg. Tel. 01 45 48 83 32. Indicação de story no Instagram (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-05"
     }
   ]
 }
