@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizadoEm": "2026-11-04T00:32:28Z",
+  "atualizadoEm": "2026-11-05T02:39:34Z",
   "lugares": [
     {
       "id": "p001",
@@ -577,8 +577,8 @@
       },
       "endereco": "64 Rue Vieille du Temple, 75003 Paris",
       "arrondissement": 3,
-      "fonte": "",
-      "notaFixa": "Carne assada em fogo de lenha na sala. Pedir: côte de bœuf para dois, saucisses, andouillette. Fecha terça e quarta; segunda, quinta e sexta só jantar. Busca do Claude no perfil Chez Denise (nov/2026).",
+      "fonte": "https://www.instagram.com/detourgourmand/",
+      "notaFixa": "Carne assada em fogo de lenha na sala. Pedir: côte de bœuf para dois (64€), saucisses, andouillette. Pratos de 20 a 35€. Sala pequena: reservar. Fecha terça e quarta; segunda, quinta e sexta só jantar. Busca do Claude no perfil Chez Denise; depois indicado por @detourgourmand (nov/2026).",
       "diario": [],
       "adicionadoEm": "2026-11-02"
     },
