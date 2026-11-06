@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizadoEm": "2026-11-05",
+  "atualizadoEm": "2026-11-06",
   "lugares": [
     {
       "id": "p001",
@@ -806,6 +806,21 @@
       "notaFixa": "Fromagerie de bairro com seleção ampla, forte em queijos de montanha de ovelha e em azuis. Deixa provar antes de comprar e embala a vácuo para viagem. Preço considerado justo. Seg 9h30 às 13h30 e 15h às 19h30; ter a sáb 9h30 às 19h30; fecha dom. Tel. 01 43 35 84 36. Indicação do Instagram (nov/2026).",
       "diario": [],
       "adicionadoEm": "2026-11-05"
+    },
+    {
+      "id": "pmw5ls2c1iz9z5",
+      "nome": "Rôtisserie Segar",
+      "categoria": "Charcutaria/Traiteur",
+      "coords": {
+        "lat": 48.8406621,
+        "lng": 2.3497999
+      },
+      "endereco": "111 Rue Mouffetard, 75005 Paris",
+      "arrondissement": 5,
+      "fonte": "https://www.instagram.com/ellabongout/",
+      "notaFixa": "Rôtisserie de balcão na Mouffetard, para levar, sem mesa. O famoso é o sanduíche de frango assado (estilo Caesar); também vende frango inteiro e acompanhamentos. Fila, e pode esgotar no fim do turno: ligar antes. Críticas apontam peito seco e pouco sal em alguns dias. Ter a sex 10h30 às 14h e 16h30 às 19h30; sáb 10h às 14h e 16h30 às 19h30; dom 10h às 14h; fecha seg. Tel. 09 87 78 01 21. Indicação do Instagram @ellabongout (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-06"
     }
   ]
 }
