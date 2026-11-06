@@ -1,871 +1,871 @@
 {
- "versao": 1,
- "atualizadoEm": "2026-11-06",
- "lugares": [
-  {
-   "id": "p001",
-   "nome": "Maison Mulot",
-   "categoria": "Padaria/Pâtisserie",
-   "coords": {
-    "lat": 48.8519792,
-    "lng": 2.3369355
-   },
-   "endereco": "76 Rue de Seine, 75006 Paris",
-   "arrondissement": 6,
-   "fonte": "https://www.maison-mulot.com/",
-   "notaFixa": "Pâtisserie clássica no 6e, famosa pelos macarons e éclairs",
-   "diario": []
-  },
-  {
-   "id": "p002",
-   "nome": "Chez Marcel",
-   "categoria": "Bistrô",
-   "coords": {
-    "lat": 48.8437602,
-    "lng": 2.3284019
-   },
-   "endereco": "7 Rue Stanislas, 75006 Paris",
-   "arrondissement": 6,
-   "fonte": "https://www.theinfatuation.com/paris/reviews/chez-marcel",
-   "notaFixa": "Bouchon lyonnais clássico: toalhas xadrez, mesas coladas, gerente animado. Cozinha tradicional com muito porco; vem salsichão seco de cortesia. Pedir a paleta de cordeiro cozida lentamente, com gratin dauphinois. Sobremesa: mil-folhas de baunilha montado na hora ou a tábua de queijos. As sugestões do quadro do dia são mais leves.",
-   "diario": []
-  },
-  {
-   "id": "p003",
-   "nome": "Boulangerie La Parisienne",
-   "categoria": "Padaria/Pâtisserie",
-   "coords": {
-    "lat": 48.8482096,
-    "lng": 2.3314271
-   },
-   "endereco": "48 Rue Madame, 75006 Paris",
-   "arrondissement": 6,
-   "fonte": "http://www.boulangerielaparisienne.com/",
-   "notaFixa": "Prêmio de Melhor Baguette de Paris em 2016, uma das melhores do 6e",
-   "diario": []
-  },
-  {
-   "id": "p004",
-   "nome": "Chez André",
-   "categoria": "Brasserie",
-   "coords": {
-    "lat": 48.8677736,
-    "lng": 2.3027628
-   },
-   "endereco": "12 Rue Marbeuf, 75008 Paris",
-   "arrondissement": 8,
-   "fonte": "https://www.chez-andre.com/",
-   "notaFixa": "Brasserie clássica da década de 1930, perto dos Champs-Élysées",
-   "diario": []
-  },
-  {
-   "id": "p005",
-   "nome": "L'Avant Comptoir du Marché",
-   "categoria": "Bar de vinhos",
-   "coords": {
-    "lat": 48.8517684,
-    "lng": 2.3354537
-   },
-   "endereco": "14 Rue Lobineau, 75006 Paris",
-   "arrondissement": 6,
-   "fonte": "https://camdeborde.com/en/restaurants/avant-comptoir-du-marche",
-   "notaFixa": "Bar de vinhos do Yves Camdeborde, tapas francesas em pé, ótimo pra petiscar",
-   "diario": []
-  },
-  {
-   "id": "pmo8kilebw7zxv",
-   "nome": "Pizza Chic",
-   "categoria": "Restaurante",
-   "coords": {
-    "lat": 48.85019,
-    "lng": 2.3306996
-   },
-   "endereco": "13 Rue de Mézières, 75006 Paris",
-   "arrondissement": 6,
-   "fonte": "https://www.pizzachic.fr/pt/",
-   "notaFixa": "Restaurante italiano em Paris especializado em pizza. Oferece carta de vinhos e reserva de mesas online.",
-   "adicionadoEm": "2026-04-21",
-   "diario": []
-  },
-  {
-   "id": "pmo8kitpwtblan",
-   "nome": "Tiger Paris",
-   "categoria": "Bar",
-   "coords": {
-    "lat": 48.852121,
-    "lng": 2.3346154
-   },
-   "endereco": "13 Rue Princesse, 75006 Paris",
-   "arrondissement": 6,
-   "fonte": "https://www.tiger-paris.com/",
-   "notaFixa": "Primeiro bar de gin de Paris localizado em Saint Germain des Prés. Oferece 100 gins, 13 coquetéis signature e mais de 1000 combinações de gin & tonic. Aberto de segunda a sábado das 17h30 às 2h.",
-   "adicionadoEm": "2026-04-21",
-   "diario": []
-  },
-  {
-   "id": "pmo8kj2cqk43at",
-   "nome": "A. Galerie",
-   "categoria": "Galeria",
-   "coords": {
-    "lat": 48.8657996,
-    "lng": 2.2991085
-   },
-   "endereco": "4 rue Léonce Reynaud, 75116 Paris",
-   "arrondissement": 16,
-   "fonte": "https://a-galerie.fr/en/",
-   "notaFixa": "Galeria de arte especializada em fotografia, exibindo artistas de renome internacional como David Yarrow, Albert Watson e Patrick Demarchelier.",
-   "adicionadoEm": "2026-04-21",
-   "diario": []
-  },
-  {
-   "id": "pmo8ks4j9fv94v",
-   "nome": "Barthelemy",
-   "categoria": "Fromagerie",
-   "coords": {
-    "lat": 48.8545007,
-    "lng": 2.3256491
-   },
-   "endereco": "51 rue de Grenelle, 75007 Paris",
-   "arrondissement": 7,
-   "fonte": "https://frenchglimpses.com/2021/05/21/barthelemy-the-cheese-shop-of-french-presidents/",
-   "notaFixa": "Fromagerie histórica, fornecedora oficial do Palácio do Eliseu desde 1973. Especializada em queijos franceses artesanais, com destaque para Fontainebleau.",
-   "adicionadoEm": "2026-04-21",
-   "diario": []
-  },
-  {
-   "id": "pmo8ksbit8pgpq",
-   "nome": "Marie Anne Cantin",
-   "categoria": "Fromagerie",
-   "coords": {
-    "lat": 48.8564823,
-    "lng": 2.3056302
-   },
-   "endereco": "12 rue du Champ de Mars, 75007 Paris",
-   "arrondissement": 7,
-   "fonte": "https://cantin.fr/",
-   "notaFixa": "Fromagerie affineur depuis 1950 specializada em queijos franceses tradicionais e AOP. Oferece degustações, buffês de queijos e entrega em 24h.",
-   "adicionadoEm": "2026-04-21",
-   "diario": []
-  },
-  {
-   "id": "pmo8ksxo8xargj",
-   "nome": "Centquatre-Paris",
-   "categoria": "Galeria",
-   "coords": {
-    "lat": 48.8900491,
-    "lng": 2.3706808
-   },
-   "endereco": "5 rue Curial, 75019 Paris",
-   "arrondissement": 19,
-   "fonte": "https://www.104.fr/en/",
-   "notaFixa": "Estabelecimento artístico e cultural inovador com galerias, exposições, performances, café e espaços de acesso livre para as artes.",
-   "adicionadoEm": "2026-04-21",
-   "diario": []
-  },
-  {
-   "id": "pmo8vx6b6egbs5",
-   "nome": "Au Petit Suisse",
-   "categoria": "Brasserie",
-   "coords": {
-    "lat": 48.8491268,
-    "lng": 2.3392595
-   },
-   "endereco": "16 Rue de Vaugirard, 75006 Paris",
-   "arrondissement": 6,
-   "fonte": "https://aupetitsuisse.fr/fr",
-   "notaFixa": "Brasserie parisiense autêntica no bairro da Sorbonne com terrasse voltada para os jardins de Luxemburgo. Ponto de encontro para estudantes e professores.",
-   "adicionadoEm": "2026-04-21",
-   "diario": []
-  },
-  {
-   "id": "pmo8vxbd3n7xm6",
-   "nome": "Le Comptoir du Relais Saint Germain",
-   "categoria": "Bistrô",
-   "coords": {
-    "lat": 48.8518946,
-    "lng": 2.3388464
-   },
-   "endereco": "9 Carrefour de l'Odéon, 75006 Paris",
-   "arrondissement": 6,
-   "fonte": "https://www.hotel-paris-relais-saint-germain.com/restaurant-le-comptoir",
-   "notaFixa": "Bistrô parisino criado por Yves Camdeborde em 2004. Cozinha generosa com produtos selecionados pelo chef e carta de vinhos 100% naturais. Sem reserva.",
-   "adicionadoEm": "2026-04-21",
-   "diario": []
-  },
-  {
-   "id": "pmo8vxnheh57a8",
-   "nome": "Le Hibou",
-   "categoria": "Brasserie",
-   "coords": {
-    "lat": 48.851932,
-    "lng": 2.3385696
-   },
-   "endereco": "16 Carrefour de l'Odéon, 75006 Paris",
-   "arrondissement": 6,
-   "fonte": "https://www.lehibou-paris.com/en/",
-   "notaFixa": "Brasserie-restaurante no Odéon com decoração broc chic, poltronas e paredes azul-pato. Oferece café, almoço, coquetéis e jantar refinado em ambiente acolhedor.",
-   "adicionadoEm": "2026-04-21",
-   "diario": []
-  },
-  {
-   "id": "pmo8vxt5aet7h3",
-   "nome": "L'Épicerie d'Olivier Pitou",
-   "categoria": "Concept store",
-   "coords": {
-    "lat": 48.8566666,
-    "lng": 2.3320351
-   },
-   "endereco": "23 rue des Saints-Pères, 75006 Paris",
-   "arrondissement": 6,
-   "fonte": "https://www.carrerivegauche.com/fr/project/lepicerie-dolivier-pitou/",
-   "notaFixa": "Seleção premium de diversos produtos. Destaque para a seção de produtos delicatessen e artigos gourmet de qualidade.",
-   "adicionadoEm": "2026-04-21",
-   "diario": []
-  },
-  {
-   "id": "pmo8vy8r4e4o8g",
-   "nome": "La Procure",
-   "categoria": "Livraria",
-   "coords": {
-    "lat": 48.850209,
-    "lng": 2.3322023
-   },
-   "endereco": "3 Rue de Mézières, 75006 Paris",
-   "arrondissement": 6,
-   "fonte": "https://www.laprocure.com/",
-   "notaFixa": "Livraria religiosa cristã especializada em livros, DVD, CD, Bíblias, sacramentos, espiritualidade e literatura.",
-   "adicionadoEm": "2026-04-21",
-   "diario": []
-  },
-  {
-   "id": "pmo8vybww88ut9",
-   "nome": "Librairie Gallimard",
-   "categoria": "Livraria",
-   "coords": {
-    "lat": 48.8544383,
-    "lng": 2.3262438
-   },
-   "endereco": "15 Boulevard Raspail, 75007 Paris",
-   "arrondissement": 7,
-   "fonte": "https://www.tripadvisor.com/Attraction_Review-g187147-d25340534-Reviews-Librairie_Gallimard-Paris_Ile_de_France.html",
-   "adicionadoEm": "2026-04-21",
-   "notaFixa": "",
-   "diario": []
-  },
-  {
-   "id": "pmvo61qx0plrdr",
-   "nome": "Polidor",
-   "categoria": "Bistrô",
-   "coords": {
-    "lat": 48.8498263,
-    "lng": 2.34018
-   },
-   "endereco": "41 Rue Monsieur-le-Prince, 75006 Paris",
-   "arrondissement": 6,
-   "fonte": "https://www.polidor.com/",
-   "notaFixa": "Crémerie aberta em 1845, bistrô desde 1890. Verlaine, Rimbaud, Joyce e Hemingway comiam aqui; aparece em Midnight in Paris. Mesas compartilhadas, cozinha de bistrô clássica (œufs mayo, bœuf bourguignon, confit de canard, tarte Tatin). Preço baixo pro bairro. Historicamente não aceitava cartão: levar dinheiro.",
-   "diario": [],
-   "adicionadoEm": "2026-10-25"
-  },
-  {
-   "id": "pmvto1pm1kgjx1g",
-   "nome": "Le Comptoir d'Antan",
-   "categoria": "Bistrô",
-   "coords": {
-    "lat": 48.8828571,
-    "lng": 2.3380891
-   },
-   "endereco": "5 Rue Houdon, 75018 Paris",
-   "arrondissement": 18,
-   "fonte": "https://www.instagram.com/comptoirdantan_pigalle/",
-   "notaFixa": "Pedir: aligot e mousse au chocolat servida à concha. Pigalle/Abbesses. Abre todos os dias. Indicação do @le_couteau (out/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-10-29"
-  },
-  {
-   "id": "pmvto1pm2dapmqw",
-   "nome": "Chouchou (Chouchou Hôtel)",
-   "categoria": "Restaurante",
-   "coords": {
-    "lat": 48.8720378,
-    "lng": 2.3348274
-   },
-   "endereco": "11 Rue du Helder, 75009 Paris",
-   "arrondissement": 9,
-   "fonte": "https://www.instagram.com/chouchouhotel/",
-   "notaFixa": "Restaurante do Chouchou Hôtel. Pedir: poulet rôti no brunch de domingo (domingo só tem almoço). Indicação do @le_couteau (out/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-10-29"
-  },
-  {
-   "id": "pmvto1pm3jxw3tk",
-   "nome": "JUSTE Table de bord de mer",
-   "categoria": "Restaurante",
-   "coords": {
-    "lat": 48.875119,
-    "lng": 2.338531
-   },
-   "endereco": "48 Rue Laffitte, 75009 Paris",
-   "arrondissement": 9,
-   "fonte": "https://www.instagram.com/juste_producteur/",
-   "notaFixa": "Frutos do mar. Pedir: plateaux de fruits de mer. Fecha domingo; segunda só jantar. Indicação do @le_couteau (out/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-10-29"
-  },
-  {
-   "id": "pmvto1pm4fgoj3h",
-   "nome": "Au Bon Coin",
-   "categoria": "Bistrô",
-   "coords": {
-    "lat": 48.8381207,
-    "lng": 2.351813
-   },
-   "endereco": "21 Rue de la Collégiale, 75005 Paris",
-   "arrondissement": 5,
-   "fonte": "https://www.instagram.com/bistrotauboncoinparis/",
-   "notaFixa": "Pedir: formule midi + île flottante servida à concha. Perto dos Gobelins, fora do circuito turístico. Indicação do @le_couteau (out/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-10-29"
-  },
-  {
-   "id": "pmvto1pm5n2mkde",
-   "nome": "Crêperie Gisèle",
-   "categoria": "Restaurante",
-   "coords": {
-    "lat": 48.8516607,
-    "lng": 2.3314241
-   },
-   "endereco": "65 Rue de Rennes, 75006 Paris",
-   "arrondissement": 6,
-   "fonte": "https://www.instagram.com/creperie_gisele/",
-   "notaFixa": "Crêperie. Pedir: galettes bretonnes. Indicação do @le_couteau (out/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-10-29"
-  },
-  {
-   "id": "pmvto1pm6e4gs3b",
-   "nome": "Le Maresquier",
-   "categoria": "Brasserie",
-   "coords": {
-    "lat": 48.8755881,
-    "lng": 2.3199012
-   },
-   "endereco": "12 Place Saint-Augustin, 75008 Paris",
-   "arrondissement": 8,
-   "fonte": "https://www.instagram.com/le_maresquier/",
-   "notaFixa": "Pedir: pâté en croûte. Na praça da igreja Saint-Augustin. Fecha domingo. Indicação do @le_couteau (out/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-10-29"
-  },
-  {
-   "id": "pmvto1pm7562a6e",
-   "nome": "La Belle Maison",
-   "categoria": "Bistrô",
-   "coords": {
-    "lat": 48.8872868,
-    "lng": 2.3362204
-   },
-   "endereco": "88 Rue Lepic, 75018 Paris",
-   "arrondissement": 18,
-   "fonte": "https://www.instagram.com/labellemaison.paris/",
-   "notaFixa": "Pedir: saucisson brioché. Montmartre. Fecha terça e quarta. Indicação do @le_couteau (out/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-10-29"
-  },
-  {
-   "id": "pmvwwdm5mhjrhq",
-   "nome": "Lombem",
-   "categoria": "Restaurante",
-   "coords": {
-    "lat": 48.8707331,
-    "lng": 2.3417383
-   },
-   "endereco": "22 Passage des Panoramas, 75002 Paris",
-   "arrondissement": 2,
-   "fonte": "https://www.instagram.com/lombem.paris/",
-   "notaFixa": "Carnes na brasa (fogo de lenha). Dentro da Passage des Panoramas. 20-35€/pessoa. Fecha domingo. Nota Google 4,2, a mais baixa da lista. Indicação de lista no Instagram (out/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-10-31"
-  },
-  {
-   "id": "pmvwwdm5nrcx0g",
-   "nome": "Melt Deli Rochechouart",
-   "categoria": "Street food",
-   "coords": {
-    "lat": 48.8820489,
-    "lng": 2.3468318
-   },
-   "endereco": "76 Rue Marguerite de Rochechouart, 75009 Paris",
-   "arrondissement": 9,
-   "fonte": "https://www.instagram.com/melt_slow_smoked_barbecue/",
-   "notaFixa": "Sanduíche de barbecue texano. Pedir: pastrami. A partir de 7€. Abre todo dia. Outra unidade em Les Halles. Indicação de lista no Instagram (out/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-10-31"
-  },
-  {
-   "id": "pmvwwdm5ot3793",
-   "nome": "Melt Deli Les Halles",
-   "categoria": "Street food",
-   "coords": {
-    "lat": 48.8601079,
-    "lng": 2.3466291
-   },
-   "endereco": "20 Rue des Halles, 75001 Paris",
-   "arrondissement": 1,
-   "fonte": "https://www.instagram.com/melt_slow_smoked_barbecue/",
-   "notaFixa": "Sanduíche de barbecue texano. Pedir: pastrami. A partir de 7€. Abre todo dia. Outra unidade no 9e (Rochechouart). Indicação de lista no Instagram (out/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-10-31"
-  },
-  {
-   "id": "pmvwwdm5q8m5yu",
-   "nome": "Marie Akaneya",
-   "categoria": "Restaurante",
-   "coords": {
-    "lat": 48.8707852,
-    "lng": 2.3270765
-   },
-   "endereco": "12 Rue Godot de Mauroy, 75009 Paris",
-   "arrondissement": 9,
-   "fonte": "https://www.instagram.com/marieakaneya/",
-   "notaFixa": "Churrasco japonês de wagyu e Kobe. A partir de 150€/pessoa. Fecha segunda; almoço só sábado. Indicação de lista no Instagram (out/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-10-31"
-  },
-  {
-   "id": "pmvwwdm5rd18zu",
-   "nome": "Le Coq & Fils",
-   "categoria": "Bistrô",
-   "coords": {
-    "lat": 48.8871994,
-    "lng": 2.3371844
-   },
-   "endereco": "98 Rue Lepic, 75018 Paris",
-   "arrondissement": 18,
-   "fonte": "https://www.instagram.com/lecoq_fils/",
-   "notaFixa": "Bistrô de aves francesas. Pedir: frango assado ou coq au vin. 40-60€/pessoa. Abre todo dia. Na mesma rua da La Belle Maison. Indicação de lista no Instagram (out/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-10-31"
-  },
-  {
-   "id": "pmvyhcngqmcjz2",
-   "nome": "Caractère de Cochon",
-   "categoria": "Street food",
-   "coords": {
-    "lat": 48.8626743,
-    "lng": 2.3624648
-   },
-   "endereco": "42 Rue Charlot, 75003 Paris",
-   "arrondissement": 3,
-   "fonte": "https://www.instagram.com/caracteredecochonparis/",
-   "notaFixa": "Charcutaria de sanduíche de jambon na baguete, ao lado do Marché des Enfants-Rouges. Monta o sanduíche no balcão; sai 18-24€. Fila longa. Fecha segunda e terça. Nota 9,3 na lista do @beli_eats (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-01"
-  },
-  {
-   "id": "pmvyhcngqlvfg3",
-   "nome": "Bistrot Paul Bert",
-   "categoria": "Bistrô",
-   "coords": {
-    "lat": 48.8522102,
-    "lng": 2.3850177
-   },
-   "endereco": "18 Rue Paul Bert, 75011 Paris",
-   "arrondissement": 11,
-   "fonte": "https://www.instagram.com/bistrotpaulbert/",
-   "notaFixa": "Bistrô clássico. Pedir: steak au poivre. Sem reserva online: ligar (+33 1 43 72 24 01) ou chegar 15-20 min antes de abrir. Fecha domingo e segunda. Indicação do @beli_eats (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-01"
-  },
-  {
-   "id": "pmvyhcngqw60l9",
-   "nome": "La Renommée",
-   "categoria": "Restaurante",
-   "coords": {
-    "lat": 48.861127,
-    "lng": 2.3431465
-   },
-   "endereco": "95 Rue Saint-Honoré, 75001 Paris",
-   "arrondissement": 1,
-   "fonte": "https://www.instagram.com/renommee_paris/",
-   "notaFixa": "Steakhouse/bistrô aberto em 2024 em prédio histórico; tem bar escondido no subsolo. Pedir: filet au poivre e escargots. Reserva difícil; chegar 17h30 para tentar sem. Almoço só sexta e sábado. Indicação do @beli_eats (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-01"
-  },
-  {
-   "id": "pmvzel6ntn9qgd",
-   "nome": "Chez Pradel",
-   "categoria": "Bistrô",
-   "coords": {
-    "lat": 48.8939453,
-    "lng": 2.3350601
-   },
-   "endereco": "168 Rue Ordener, 75018 Paris",
-   "arrondissement": 18,
-   "fonte": "",
-   "notaFixa": "Bistrô de bairro (o post chama de Brasserie Pradel). Fórmula de almoço barata, cardápio na lousa, porção generosa. Fila no almoço: reservar. Fecha domingo e segunda. Lista de brasseries do Instagram (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-02"
-  },
-  {
-   "id": "pmvzel6o3i0az2",
-   "nome": "Le Café du Commerce",
-   "categoria": "Brasserie",
-   "coords": {
-    "lat": 48.8464167,
-    "lng": 2.2954806
-   },
-   "endereco": "51 Rue du Commerce, 75015 Paris",
-   "arrondissement": 15,
-   "fonte": "https://www.instagram.com/cafeducommerceparis/",
-   "notaFixa": "Brasserie grande em três andares em volta de um salão central com teto aberto. Cozinha clássica (confit de canard, soupe à l'oignon). Pedir mesa no 2º andar. Aberto todo dia. Lista de brasseries do Instagram (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-02"
-  },
-  {
-   "id": "pmvzel6odb6js9",
-   "nome": "Au Pied de Cochon",
-   "categoria": "Brasserie",
-   "coords": {
-    "lat": 48.8635176,
-    "lng": 2.3437221
-   },
-   "endereco": "6 Rue Coquillière, 75001 Paris",
-   "arrondissement": 1,
-   "fonte": "https://www.instagram.com/pieddecochon/",
-   "notaFixa": "Instituição dos Halles desde 1947. Pedir: o pied de cochon, escargots, gratinée. Programa de madrugada: o post diz 24h, o Google mostra 8h às 5h. Caro pro que é. Lista de brasseries do Instagram (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-02"
-  },
-  {
-   "id": "pmvzel6oocvzz8",
-   "nome": "Bofinger",
-   "categoria": "Brasserie",
-   "coords": {
-    "lat": 48.8539497,
-    "lng": 2.3678627
-   },
-   "endereco": "5-7 Rue de la Bastille, 75004 Paris",
-   "arrondissement": 4,
-   "fonte": "https://www.instagram.com/brasserie_bofinger/",
-   "notaFixa": "Brasserie alsaciana fundada em 1864, salão Belle Époque com cúpula de vitral. Pedir: choucroute Bofinger, frutos do mar, baba au rhum. Pedir mesa no térreo, embaixo da cúpula. Perto da Opéra Bastille. Lista de brasseries do Instagram (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-02"
-  },
-  {
-   "id": "pmvzf6yf5cvjgs",
-   "nome": "La Tour de Montlhéry (Chez Denise)",
-   "categoria": "Bistrô",
-   "coords": {
-    "lat": 48.861534,
-    "lng": 2.344001
-   },
-   "endereco": "5 Rue des Prouvaires, 75001 Paris",
-   "arrondissement": 1,
-   "fonte": "https://fr.gaultmillau.com/fr/restaurants/la-tour-de-montlhery",
-   "notaFixa": "Último bistrô dos antigos Halles. Porção enorme, miúdos e carne: os à moelle, rognons, andouillette, pied de porc, pot-au-feu; vinho à la ficelle. Aberto todo dia, 12h à meia-noite. Reserva só por telefone (+33 1 42 36 21 82). Comprado em 2020 pelo grupo Bertrand. O favorito do Arthur, régua dos outros.",
-   "diario": [],
-   "adicionadoEm": "2026-11-02"
-  },
-  {
-   "id": "pmvzf6yffer4or",
-   "nome": "Robert et Louise",
-   "categoria": "Bistrô",
-   "coords": {
-    "lat": 48.8590662,
-    "lng": 2.3594996
-   },
-   "endereco": "64 Rue Vieille du Temple, 75003 Paris",
-   "arrondissement": 3,
-   "fonte": "https://www.instagram.com/detourgourmand/",
-   "notaFixa": "Carne assada em fogo de lenha na sala. Pedir: côte de bœuf para dois (64€), saucisses, andouillette. Pratos de 20 a 35€. Sala pequena: reservar. Fecha terça e quarta; segunda, quinta e sexta só jantar. Busca do Claude no perfil Chez Denise; depois indicado por @detourgourmand (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-02"
-  },
-  {
-   "id": "pmvzf6yfq22nst",
-   "nome": "Au Moulin à Vent",
-   "categoria": "Bistrô",
-   "coords": {
-    "lat": 48.8485574,
-    "lng": 2.3547648
-   },
-   "endereco": "20 Rue des Fossés Saint-Bernard, 75005 Paris",
-   "arrondissement": 5,
-   "fonte": "",
-   "notaFixa": "Bistrô à moda antiga, público local. Pedir: œuf mayo, ris de veau, os à moelle, côte de bœuf maturada. Carta de vinhos boa. Fecha domingo e segunda. Busca do Claude no perfil Chez Denise (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-02"
-  },
-  {
-   "id": "pmvzf6yg0b9mqb",
-   "nome": "Le Balzar",
-   "categoria": "Brasserie",
-   "coords": {
-    "lat": 48.8498816,
-    "lng": 2.3433813
-   },
-   "endereco": "49 Rue des Écoles, 75005 Paris",
-   "arrondissement": 5,
-   "fonte": "",
-   "notaFixa": "Brasserie de 1890 ao lado da Sorbonne, frequentada por professores, alunos e editores. Art déco, banquettes de moleskine. Pedir: tartare, escargots, poulet rôti. Aberto todo dia, 8h30 às 23h30. Busca do Claude no perfil Chez Denise (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-02"
-  },
-  {
-   "id": "pmvzf6ygaxut4y",
-   "nome": "Chez Paul",
-   "categoria": "Bistrô",
-   "coords": {
-    "lat": 48.85282,
-    "lng": 2.374342
-   },
-   "endereco": "13 Rue de Charonne, 75011 Paris",
-   "arrondissement": 11,
-   "fonte": "",
-   "notaFixa": "Bistrô antigo da Bastille, aberto todo dia até 0h30: o mais parecido com o Denise no horário. Pedir: os à moelle, steak au poivre, tarte Tatin. Busca do Claude no perfil Chez Denise (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-02"
-  },
-  {
-   "id": "pmvzf6ygknhji4",
-   "nome": "Auberge Pyrénées-Cévennes",
-   "categoria": "Bistrô",
-   "coords": {
-    "lat": 48.867897,
-    "lng": 2.3688557
-   },
-   "endereco": "106 Rue de la Folie-Méricourt, 75011 Paris",
-   "arrondissement": 11,
-   "fonte": "",
-   "notaFixa": "Bistrô rústico do sudoeste. Pedir: cassoulet (porção enorme), ris de veau. Horário incerto no Google: ligar antes (+33 1 43 57 33 78). Cuidado com o preço da água e do vinho da casa. Busca do Claude no perfil Chez Denise (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-02"
-  },
-  {
-   "id": "pmvzf6yguple2t",
-   "nome": "Bistrot La Renaissance",
-   "categoria": "Bistrô",
-   "coords": {
-    "lat": 48.8958439,
-    "lng": 2.3397433
-   },
-   "endereco": "112 Rue Championnet, 75018 Paris",
-   "arrondissement": 18,
-   "fonte": "",
-   "notaFixa": "Bistrô de bairro com balcão de cobre, cenário de Les Ripoux e Inglourious Basterds. Aberto todo dia, 8h às 2h. Pedir: côte de porc, tartare. Busca do Claude no perfil Chez Denise (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-02"
-  },
-  {
-   "id": "pmvzf6yh5ssbrh",
-   "nome": "Le Mesturet",
-   "categoria": "Bistrô",
-   "coords": {
-    "lat": 48.869075,
-    "lng": 2.33853
-   },
-   "endereco": "77 Rue de Richelieu, 75002 Paris",
-   "arrondissement": 2,
-   "fonte": "",
-   "notaFixa": "Bistrô perto da Bourse, tudo feito na casa com produto fresco. Pedir: escargots, ragoût de veau, Paris-Brest. Aberto todo dia, 12h às 23h. Busca do Claude no perfil Chez Denise (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-02"
-  },
-  {
-   "id": "pmvzf6yhf6pa4l",
-   "nome": "Chez Savy",
-   "categoria": "Bistrô",
-   "coords": {
-    "lat": 48.867046,
-    "lng": 2.307571
-   },
-   "endereco": "23 Rue Bayard, 75008 Paris",
-   "arrondissement": 8,
-   "fonte": "",
-   "notaFixa": "Bistrô aveyronês dos anos 1920 no Triângulo de Ouro. Pedir: steak, pâté, soupe à l'oignon. Fecha sábado e domingo. Busca do Claude no perfil Chez Denise (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-02"
-  },
-  {
-   "id": "pmvzf6yhpvikn1",
-   "nome": "Severo",
-   "categoria": "Bistrô",
-   "coords": {
-    "lat": 48.8319919,
-    "lng": 2.3245706
-   },
-   "endereco": "8 Rue des Plantes, 75014 Paris",
-   "arrondissement": 14,
-   "fonte": "",
-   "notaFixa": "Bistrô pequeno de carne maturada, com dono à moda antiga. Pedir: steak au poivre, frites, tartare. Carta de vinhos grande. Reserva com sinal. Fecha sábado e domingo; quarta só jantar. Busca do Claude no perfil Chez Denise (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-02"
-  },
-  {
-   "id": "pmw1du2cstqizf",
-   "nome": "Dayclub Sandwich & Coffee",
-   "categoria": "Street food",
-   "coords": {
-    "lat": 48.8746267,
-    "lng": 2.3428482
-   },
-   "endereco": "12 Rue Cadet, 75009 Paris",
-   "arrondissement": 9,
-   "fonte": "https://www.instagram.com/dayclub.coffee/",
-   "notaFixa": "Café de sanduíches caseiros. Pedir: sanduíche Hera e matcha. Sanduíche 9,50€, fórmula 13,50€. Só de dia: 8h30 às 17h (fim de semana abre mais tarde). Nota Google 4,8 com só 64 avaliações, casa nova. Indicação de lista no Instagram (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-03"
-  },
-  {
-   "id": "pmw1du2csbr87h",
-   "nome": "Cāntīng",
-   "categoria": "Restaurante",
-   "coords": {
-    "lat": 48.87695,
-    "lng": 2.3326825
-   },
-   "endereco": "64 Rue Saint-Lazare, 75009 Paris",
-   "arrondissement": 9,
-   "fonte": "https://www.instagram.com/canting.club/",
-   "notaFixa": "Cantina com toque asiático, monta a bandeja. Porção grande. Fórmula a partir de 10,50€. Só almoço, 11h45 às 14h30. Fecha sábado e domingo. Indicação de lista no Instagram (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-03"
-  },
-  {
-   "id": "pmw1du2cstdi3d",
-   "nome": "Armande Lepic",
-   "categoria": "Street food",
-   "coords": {
-    "lat": 48.8851189,
-    "lng": 2.3343503
-   },
-   "endereco": "24 Rue Lepic, 75018 Paris",
-   "arrondissement": 18,
-   "fonte": "https://www.instagram.com/armandemontmartre/",
-   "notaFixa": "Sanduicheria pequena, produto de qualidade. Pedir: croque monsieur, jambon-beurre, cookie. A partir de 6€. Mesma dona do café Armande (26 Rue Tholozé), ali do lado. Indicação de lista no Instagram (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-03"
-  },
-  {
-   "id": "pmw1du2csamlax",
-   "nome": "Will's Deli",
-   "categoria": "Street food",
-   "coords": {
-    "lat": 48.8697614,
-    "lng": 2.347983
-   },
-   "endereco": "28 Rue Poissonnière, 75002 Paris",
-   "arrondissement": 2,
-   "fonte": "https://www.instagram.com/wills.deli/",
-   "notaFixa": "Deli de Nova York. Pedir: pastrami ou Reuben; cheesecake. A partir de 11€. Seg e ter só almoço; qua a sáb até 22h. Fecha domingo. Perto do Grand Rex. Indicação de lista no Instagram (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-03"
-  },
-  {
-   "id": "pmw1du2cspk8fq",
-   "nome": "Nissi",
-   "categoria": "Street food",
-   "coords": {
-    "lat": 48.8807044,
-    "lng": 2.3350537
-   },
-   "endereco": "4 Rue Pierre Fontaine, 75009 Paris",
-   "arrondissement": 9,
-   "fonte": "https://www.instagram.com/nissi.paris/",
-   "notaFixa": "Sanduíche mediterrâneo no pão chalá. A partir de 11€; prato custa mais que o sanduíche. Abre todo dia, 12h às 23h. Avaliações divididas: o pão é unanimidade, o recheio nem sempre. Indicação de lista no Instagram (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-03"
-  },
-  {
-   "id": "pmw41vemgpde2t",
-   "nome": "Maison Verot",
-   "categoria": "Charcutaria/Traiteur",
-   "coords": {
-    "lat": 48.846907,
-    "lng": 2.327144
-   },
-   "endereco": "3 Rue Notre-Dame des Champs, 75006 Paris",
-   "arrondissement": 6,
-   "fonte": "",
-   "notaFixa": "Charcutaria/traiteur de Gilles Verot, referência em pâté en croûte (premiado) e fromage de tête; também presuntos, saucisson e salsichas. Caro, qualidade alta. Ter a sáb 9h às 20h (sáb até 19h30); fecha dom e seg. Tel. 01 45 48 83 32. Indicação de story no Instagram (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-05"
-  },
-  {
-   "id": "pmw42gaumjwjba",
-   "nome": "Fromagerie Chez Alexandre",
-   "categoria": "Fromagerie",
-   "coords": {
-    "lat": 48.8491523,
-    "lng": 2.3253979
-   },
-   "endereco": "19 Rue Saint-Placide, 75006 Paris",
-   "arrondissement": 6,
-   "fonte": "",
-   "notaFixa": "Fromagerie de bairro com seleção ampla, forte em queijos de montanha de ovelha e em azuis. Deixa provar antes de comprar e embala a vácuo para viagem. Preço considerado justo. Seg 9h30 às 13h30 e 15h às 19h30; ter a sáb 9h30 às 19h30; fecha dom. Tel. 01 43 35 84 36. Indicação do Instagram (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-05"
-  },
-  {
-   "id": "pmw5mbevy486k2",
-   "nome": "Rôtisserie Cot Cot Gardette",
-   "categoria": "Restaurante",
-   "coords": {
-    "lat": 48.8613459,
-    "lng": 2.3803385
-   },
-   "endereco": "22 Rue Rochebrune, 75011 Paris",
-   "arrondissement": 11,
-   "fonte": "",
-   "notaFixa": "Rôtisserie de bairro tocada pelo dono, perto do square Maurice-Gardette. Frango assado no espeto com acompanhamento e molho (meio frango com acompanhamento por volta de 15 euros); dá para comer lá ou levar. Peça as asas, que saem crocantes. Há relato de frango duro e de preço maior para estrangeiro: confira o preço no cardápio. Seg 11h30 às 15h; ter a sex 11h30 às 15h e 17h às 21h; sáb 11h30 às 21h; dom 11h30 às 16h. Tel. 09 81 89 47 40. Pesquisa do Claude (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-06"
-  },
-  {
-   "id": "pmw5mbew8z99c0",
-   "nome": "Boucherie Bréa",
-   "categoria": "Charcutaria/Traiteur",
-   "coords": {
-    "lat": 48.8427713,
-    "lng": 2.3300581
-   },
-   "endereco": "21 Rue Bréa, 75006 Paris",
-   "arrondissement": 6,
-   "fonte": "https://paris.evous.fr/une-saveur/ou-acheter-les-meilleures-volailles.html",
-   "notaFixa": "Açougue de bairro em Vavin com frango das Landes no espeto: pele crocante, carne macia. Só para levar; programa de domingo de manhã, como os parisienses. Poucas avaliações, e uma reclamação forte de um capão de Natal caro. Ter a sáb 8h30 às 13h e 15h30 às 19h30; dom 8h30 às 13h; fecha seg. Tel. 01 43 26 51 33. Pesquisa do Claude (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-06"
-  },
-  {
-   "id": "pmw5mbewi2l52g",
-   "nome": "Rôtisserie Stévenot (Cadet)",
-   "categoria": "Charcutaria/Traiteur",
-   "coords": {
-    "lat": 48.8746814,
-    "lng": 2.3427087
-   },
-   "endereco": "7 Rue Cadet, 75009 Paris",
-   "arrondissement": 9,
-   "fonte": "",
-   "notaFixa": "Rôtisseur com frango Label Rouge, na rua de comércio da Cadet. Frango de bairro, não de chef: inteiro ou meio, com batata. As costelinhas de porco também são elogiadas. Só para levar, e há quem reclame de frango seco. Seg a sex 8h30 às 14h30 e 16h30 às 20h20; sáb até 20h20 com pausa à tarde; dom 8h30 às 14h45. Tel. 01 71 76 31 71. Tem filiais no 3e (Rue de Bretagne) e no 2e (Montorgueil), mais fracas no Google. Pesquisa do Claude (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-06"
-  },
-  {
-   "id": "pmw5mbews05a87",
-   "nome": "L'Arrière-Cuisine",
-   "categoria": "Street food",
-   "coords": {
-    "lat": 48.8335107,
-    "lng": 2.3239181
-   },
-   "endereco": "179 Rue du Château, 75014 Paris",
-   "arrondissement": 14,
-   "fonte": "",
-   "notaFixa": "Anexo do L'Assiette, de David Rathgeber (o do cassoulet), colado no restaurante. Sanduíches de comida de rua inspirada em viagens; o famoso é o de frango assado, com fritas. Lugar pequeno, sem reserva, meio mercearia e brechó. Horário: almoço até o fim da tarde, de quarta a domingo (confirmar antes, o Google não mostra horário). Tel. 01 40 49 02 13. Pesquisa do Claude (nov/2026).",
-   "diario": [],
-   "adicionadoEm": "2026-11-06"
-  }
- ]
+  "versao": 1,
+  "atualizadoEm": "2026-11-06",
+  "lugares": [
+    {
+      "id": "p001",
+      "nome": "Maison Mulot",
+      "categoria": "Padaria/Pâtisserie",
+      "coords": {
+        "lat": 48.8519792,
+        "lng": 2.3369355
+      },
+      "endereco": "76 Rue de Seine, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "https://www.maison-mulot.com/",
+      "notaFixa": "Pâtisserie clássica no 6e, famosa pelos macarons e éclairs",
+      "diario": []
+    },
+    {
+      "id": "p002",
+      "nome": "Chez Marcel",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8437602,
+        "lng": 2.3284019
+      },
+      "endereco": "7 Rue Stanislas, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "https://www.theinfatuation.com/paris/reviews/chez-marcel",
+      "notaFixa": "Bouchon lyonnais clássico: toalhas xadrez, mesas coladas, gerente animado. Cozinha tradicional com muito porco; vem salsichão seco de cortesia. Pedir a paleta de cordeiro cozida lentamente, com gratin dauphinois. Sobremesa: mil-folhas de baunilha montado na hora ou a tábua de queijos. As sugestões do quadro do dia são mais leves.",
+      "diario": []
+    },
+    {
+      "id": "p003",
+      "nome": "Boulangerie La Parisienne",
+      "categoria": "Padaria/Pâtisserie",
+      "coords": {
+        "lat": 48.8482096,
+        "lng": 2.3314271
+      },
+      "endereco": "48 Rue Madame, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "http://www.boulangerielaparisienne.com/",
+      "notaFixa": "Prêmio de Melhor Baguette de Paris em 2016, uma das melhores do 6e",
+      "diario": []
+    },
+    {
+      "id": "p004",
+      "nome": "Chez André",
+      "categoria": "Brasserie",
+      "coords": {
+        "lat": 48.8677736,
+        "lng": 2.3027628
+      },
+      "endereco": "12 Rue Marbeuf, 75008 Paris",
+      "arrondissement": 8,
+      "fonte": "https://www.chez-andre.com/",
+      "notaFixa": "Brasserie clássica da década de 1930, perto dos Champs-Élysées",
+      "diario": []
+    },
+    {
+      "id": "p005",
+      "nome": "L'Avant Comptoir du Marché",
+      "categoria": "Bar de vinhos",
+      "coords": {
+        "lat": 48.8517684,
+        "lng": 2.3354537
+      },
+      "endereco": "14 Rue Lobineau, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "https://camdeborde.com/en/restaurants/avant-comptoir-du-marche",
+      "notaFixa": "Bar de vinhos do Yves Camdeborde, tapas francesas em pé, ótimo pra petiscar",
+      "diario": []
+    },
+    {
+      "id": "pmo8kilebw7zxv",
+      "nome": "Pizza Chic",
+      "categoria": "Restaurante",
+      "coords": {
+        "lat": 48.85019,
+        "lng": 2.3306996
+      },
+      "endereco": "13 Rue de Mézières, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "https://www.pizzachic.fr/pt/",
+      "notaFixa": "Restaurante italiano em Paris especializado em pizza. Oferece carta de vinhos e reserva de mesas online.",
+      "adicionadoEm": "2026-04-21",
+      "diario": []
+    },
+    {
+      "id": "pmo8kitpwtblan",
+      "nome": "Tiger Paris",
+      "categoria": "Bar",
+      "coords": {
+        "lat": 48.852121,
+        "lng": 2.3346154
+      },
+      "endereco": "13 Rue Princesse, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "https://www.tiger-paris.com/",
+      "notaFixa": "Primeiro bar de gin de Paris localizado em Saint Germain des Prés. Oferece 100 gins, 13 coquetéis signature e mais de 1000 combinações de gin & tonic. Aberto de segunda a sábado das 17h30 às 2h.",
+      "adicionadoEm": "2026-04-21",
+      "diario": []
+    },
+    {
+      "id": "pmo8kj2cqk43at",
+      "nome": "A. Galerie",
+      "categoria": "Galeria",
+      "coords": {
+        "lat": 48.8657996,
+        "lng": 2.2991085
+      },
+      "endereco": "4 rue Léonce Reynaud, 75116 Paris",
+      "arrondissement": 16,
+      "fonte": "https://a-galerie.fr/en/",
+      "notaFixa": "Galeria de arte especializada em fotografia, exibindo artistas de renome internacional como David Yarrow, Albert Watson e Patrick Demarchelier.",
+      "adicionadoEm": "2026-04-21",
+      "diario": []
+    },
+    {
+      "id": "pmo8ks4j9fv94v",
+      "nome": "Barthelemy",
+      "categoria": "Fromagerie",
+      "coords": {
+        "lat": 48.8545007,
+        "lng": 2.3256491
+      },
+      "endereco": "51 rue de Grenelle, 75007 Paris",
+      "arrondissement": 7,
+      "fonte": "https://frenchglimpses.com/2021/05/21/barthelemy-the-cheese-shop-of-french-presidents/",
+      "notaFixa": "Fromagerie histórica, fornecedora oficial do Palácio do Eliseu desde 1973. Especializada em queijos franceses artesanais, com destaque para Fontainebleau.",
+      "adicionadoEm": "2026-04-21",
+      "diario": []
+    },
+    {
+      "id": "pmo8ksbit8pgpq",
+      "nome": "Marie Anne Cantin",
+      "categoria": "Fromagerie",
+      "coords": {
+        "lat": 48.8564823,
+        "lng": 2.3056302
+      },
+      "endereco": "12 rue du Champ de Mars, 75007 Paris",
+      "arrondissement": 7,
+      "fonte": "https://cantin.fr/",
+      "notaFixa": "Fromagerie affineur depuis 1950 specializada em queijos franceses tradicionais e AOP. Oferece degustações, buffês de queijos e entrega em 24h.",
+      "adicionadoEm": "2026-04-21",
+      "diario": []
+    },
+    {
+      "id": "pmo8ksxo8xargj",
+      "nome": "Centquatre-Paris",
+      "categoria": "Galeria",
+      "coords": {
+        "lat": 48.8900491,
+        "lng": 2.3706808
+      },
+      "endereco": "5 rue Curial, 75019 Paris",
+      "arrondissement": 19,
+      "fonte": "https://www.104.fr/en/",
+      "notaFixa": "Estabelecimento artístico e cultural inovador com galerias, exposições, performances, café e espaços de acesso livre para as artes.",
+      "adicionadoEm": "2026-04-21",
+      "diario": []
+    },
+    {
+      "id": "pmo8vx6b6egbs5",
+      "nome": "Au Petit Suisse",
+      "categoria": "Brasserie",
+      "coords": {
+        "lat": 48.8491268,
+        "lng": 2.3392595
+      },
+      "endereco": "16 Rue de Vaugirard, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "https://aupetitsuisse.fr/fr",
+      "notaFixa": "Brasserie parisiense autêntica no bairro da Sorbonne com terrasse voltada para os jardins de Luxemburgo. Ponto de encontro para estudantes e professores.",
+      "adicionadoEm": "2026-04-21",
+      "diario": []
+    },
+    {
+      "id": "pmo8vxbd3n7xm6",
+      "nome": "Le Comptoir du Relais Saint Germain",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8518946,
+        "lng": 2.3388464
+      },
+      "endereco": "9 Carrefour de l'Odéon, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "https://www.hotel-paris-relais-saint-germain.com/restaurant-le-comptoir",
+      "notaFixa": "Bistrô parisino criado por Yves Camdeborde em 2004. Cozinha generosa com produtos selecionados pelo chef e carta de vinhos 100% naturais. Sem reserva.",
+      "adicionadoEm": "2026-04-21",
+      "diario": []
+    },
+    {
+      "id": "pmo8vxnheh57a8",
+      "nome": "Le Hibou",
+      "categoria": "Brasserie",
+      "coords": {
+        "lat": 48.851932,
+        "lng": 2.3385696
+      },
+      "endereco": "16 Carrefour de l'Odéon, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "https://www.lehibou-paris.com/en/",
+      "notaFixa": "Brasserie-restaurante no Odéon com decoração broc chic, poltronas e paredes azul-pato. Oferece café, almoço, coquetéis e jantar refinado em ambiente acolhedor.",
+      "adicionadoEm": "2026-04-21",
+      "diario": []
+    },
+    {
+      "id": "pmo8vxt5aet7h3",
+      "nome": "L'Épicerie d'Olivier Pitou",
+      "categoria": "Concept store",
+      "coords": {
+        "lat": 48.8566666,
+        "lng": 2.3320351
+      },
+      "endereco": "23 rue des Saints-Pères, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "https://www.carrerivegauche.com/fr/project/lepicerie-dolivier-pitou/",
+      "notaFixa": "Seleção premium de diversos produtos. Destaque para a seção de produtos delicatessen e artigos gourmet de qualidade.",
+      "adicionadoEm": "2026-04-21",
+      "diario": []
+    },
+    {
+      "id": "pmo8vy8r4e4o8g",
+      "nome": "La Procure",
+      "categoria": "Livraria",
+      "coords": {
+        "lat": 48.850209,
+        "lng": 2.3322023
+      },
+      "endereco": "3 Rue de Mézières, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "https://www.laprocure.com/",
+      "notaFixa": "Livraria religiosa cristã especializada em livros, DVD, CD, Bíblias, sacramentos, espiritualidade e literatura.",
+      "adicionadoEm": "2026-04-21",
+      "diario": []
+    },
+    {
+      "id": "pmo8vybww88ut9",
+      "nome": "Librairie Gallimard",
+      "categoria": "Livraria",
+      "coords": {
+        "lat": 48.8544383,
+        "lng": 2.3262438
+      },
+      "endereco": "15 Boulevard Raspail, 75007 Paris",
+      "arrondissement": 7,
+      "fonte": "https://www.tripadvisor.com/Attraction_Review-g187147-d25340534-Reviews-Librairie_Gallimard-Paris_Ile_de_France.html",
+      "adicionadoEm": "2026-04-21",
+      "notaFixa": "",
+      "diario": []
+    },
+    {
+      "id": "pmvo61qx0plrdr",
+      "nome": "Polidor",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8498263,
+        "lng": 2.34018
+      },
+      "endereco": "41 Rue Monsieur-le-Prince, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "https://www.polidor.com/",
+      "notaFixa": "Crémerie aberta em 1845, bistrô desde 1890. Verlaine, Rimbaud, Joyce e Hemingway comiam aqui; aparece em Midnight in Paris. Mesas compartilhadas, cozinha de bistrô clássica (œufs mayo, bœuf bourguignon, confit de canard, tarte Tatin). Preço baixo pro bairro. Historicamente não aceitava cartão: levar dinheiro.",
+      "diario": [],
+      "adicionadoEm": "2026-10-25"
+    },
+    {
+      "id": "pmvto1pm1kgjx1g",
+      "nome": "Le Comptoir d'Antan",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8828571,
+        "lng": 2.3380891
+      },
+      "endereco": "5 Rue Houdon, 75018 Paris",
+      "arrondissement": 18,
+      "fonte": "https://www.instagram.com/comptoirdantan_pigalle/",
+      "notaFixa": "Pedir: aligot e mousse au chocolat servida à concha. Pigalle/Abbesses. Abre todos os dias. Indicação do @le_couteau (out/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-10-29"
+    },
+    {
+      "id": "pmvto1pm2dapmqw",
+      "nome": "Chouchou (Chouchou Hôtel)",
+      "categoria": "Restaurante",
+      "coords": {
+        "lat": 48.8720378,
+        "lng": 2.3348274
+      },
+      "endereco": "11 Rue du Helder, 75009 Paris",
+      "arrondissement": 9,
+      "fonte": "https://www.instagram.com/chouchouhotel/",
+      "notaFixa": "Restaurante do Chouchou Hôtel. Pedir: poulet rôti no brunch de domingo (domingo só tem almoço). Indicação do @le_couteau (out/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-10-29"
+    },
+    {
+      "id": "pmvto1pm3jxw3tk",
+      "nome": "JUSTE Table de bord de mer",
+      "categoria": "Restaurante",
+      "coords": {
+        "lat": 48.875119,
+        "lng": 2.338531
+      },
+      "endereco": "48 Rue Laffitte, 75009 Paris",
+      "arrondissement": 9,
+      "fonte": "https://www.instagram.com/juste_producteur/",
+      "notaFixa": "Frutos do mar. Pedir: plateaux de fruits de mer. Fecha domingo; segunda só jantar. Indicação do @le_couteau (out/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-10-29"
+    },
+    {
+      "id": "pmvto1pm4fgoj3h",
+      "nome": "Au Bon Coin",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8381207,
+        "lng": 2.351813
+      },
+      "endereco": "21 Rue de la Collégiale, 75005 Paris",
+      "arrondissement": 5,
+      "fonte": "https://www.instagram.com/bistrotauboncoinparis/",
+      "notaFixa": "Pedir: formule midi + île flottante servida à concha. Perto dos Gobelins, fora do circuito turístico. Indicação do @le_couteau (out/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-10-29"
+    },
+    {
+      "id": "pmvto1pm5n2mkde",
+      "nome": "Crêperie Gisèle",
+      "categoria": "Restaurante",
+      "coords": {
+        "lat": 48.8516607,
+        "lng": 2.3314241
+      },
+      "endereco": "65 Rue de Rennes, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "https://www.instagram.com/creperie_gisele/",
+      "notaFixa": "Crêperie. Pedir: galettes bretonnes. Indicação do @le_couteau (out/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-10-29"
+    },
+    {
+      "id": "pmvto1pm6e4gs3b",
+      "nome": "Le Maresquier",
+      "categoria": "Brasserie",
+      "coords": {
+        "lat": 48.8755881,
+        "lng": 2.3199012
+      },
+      "endereco": "12 Place Saint-Augustin, 75008 Paris",
+      "arrondissement": 8,
+      "fonte": "https://www.instagram.com/le_maresquier/",
+      "notaFixa": "Pedir: pâté en croûte. Na praça da igreja Saint-Augustin. Fecha domingo. Indicação do @le_couteau (out/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-10-29"
+    },
+    {
+      "id": "pmvto1pm7562a6e",
+      "nome": "La Belle Maison",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8872868,
+        "lng": 2.3362204
+      },
+      "endereco": "88 Rue Lepic, 75018 Paris",
+      "arrondissement": 18,
+      "fonte": "https://www.instagram.com/labellemaison.paris/",
+      "notaFixa": "Pedir: saucisson brioché. Montmartre. Fecha terça e quarta. Indicação do @le_couteau (out/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-10-29"
+    },
+    {
+      "id": "pmvwwdm5mhjrhq",
+      "nome": "Lombem",
+      "categoria": "Restaurante",
+      "coords": {
+        "lat": 48.8707331,
+        "lng": 2.3417383
+      },
+      "endereco": "22 Passage des Panoramas, 75002 Paris",
+      "arrondissement": 2,
+      "fonte": "https://www.instagram.com/lombem.paris/",
+      "notaFixa": "Carnes na brasa (fogo de lenha). Dentro da Passage des Panoramas. 20-35€/pessoa. Fecha domingo. Nota Google 4,2, a mais baixa da lista. Indicação de lista no Instagram (out/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-10-31"
+    },
+    {
+      "id": "pmvwwdm5nrcx0g",
+      "nome": "Melt Deli Rochechouart",
+      "categoria": "Street food",
+      "coords": {
+        "lat": 48.8820489,
+        "lng": 2.3468318
+      },
+      "endereco": "76 Rue Marguerite de Rochechouart, 75009 Paris",
+      "arrondissement": 9,
+      "fonte": "https://www.instagram.com/melt_slow_smoked_barbecue/",
+      "notaFixa": "Sanduíche de barbecue texano. Pedir: pastrami. A partir de 7€. Abre todo dia. Outra unidade em Les Halles. Indicação de lista no Instagram (out/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-10-31"
+    },
+    {
+      "id": "pmvwwdm5ot3793",
+      "nome": "Melt Deli Les Halles",
+      "categoria": "Street food",
+      "coords": {
+        "lat": 48.8601079,
+        "lng": 2.3466291
+      },
+      "endereco": "20 Rue des Halles, 75001 Paris",
+      "arrondissement": 1,
+      "fonte": "https://www.instagram.com/melt_slow_smoked_barbecue/",
+      "notaFixa": "Sanduíche de barbecue texano. Pedir: pastrami. A partir de 7€. Abre todo dia. Outra unidade no 9e (Rochechouart). Indicação de lista no Instagram (out/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-10-31"
+    },
+    {
+      "id": "pmvwwdm5q8m5yu",
+      "nome": "Marie Akaneya",
+      "categoria": "Restaurante",
+      "coords": {
+        "lat": 48.8707852,
+        "lng": 2.3270765
+      },
+      "endereco": "12 Rue Godot de Mauroy, 75009 Paris",
+      "arrondissement": 9,
+      "fonte": "https://www.instagram.com/marieakaneya/",
+      "notaFixa": "Churrasco japonês de wagyu e Kobe. A partir de 150€/pessoa. Fecha segunda; almoço só sábado. Indicação de lista no Instagram (out/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-10-31"
+    },
+    {
+      "id": "pmvwwdm5rd18zu",
+      "nome": "Le Coq & Fils",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8871994,
+        "lng": 2.3371844
+      },
+      "endereco": "98 Rue Lepic, 75018 Paris",
+      "arrondissement": 18,
+      "fonte": "https://www.instagram.com/lecoq_fils/",
+      "notaFixa": "Bistrô de aves francesas. Pedir: frango assado ou coq au vin. 40-60€/pessoa. Abre todo dia. Na mesma rua da La Belle Maison. Indicação de lista no Instagram (out/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-10-31"
+    },
+    {
+      "id": "pmvyhcngqmcjz2",
+      "nome": "Caractère de Cochon",
+      "categoria": "Street food",
+      "coords": {
+        "lat": 48.8626743,
+        "lng": 2.3624648
+      },
+      "endereco": "42 Rue Charlot, 75003 Paris",
+      "arrondissement": 3,
+      "fonte": "https://www.instagram.com/caracteredecochonparis/",
+      "notaFixa": "Charcutaria de sanduíche de jambon na baguete, ao lado do Marché des Enfants-Rouges. Monta o sanduíche no balcão; sai 18-24€. Fila longa. Fecha segunda e terça. Nota 9,3 na lista do @beli_eats (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-01"
+    },
+    {
+      "id": "pmvyhcngqlvfg3",
+      "nome": "Bistrot Paul Bert",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8522102,
+        "lng": 2.3850177
+      },
+      "endereco": "18 Rue Paul Bert, 75011 Paris",
+      "arrondissement": 11,
+      "fonte": "https://www.instagram.com/bistrotpaulbert/",
+      "notaFixa": "Bistrô clássico. Pedir: steak au poivre. Sem reserva online: ligar (+33 1 43 72 24 01) ou chegar 15-20 min antes de abrir. Fecha domingo e segunda. Indicação do @beli_eats (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-01"
+    },
+    {
+      "id": "pmvyhcngqw60l9",
+      "nome": "La Renommée",
+      "categoria": "Restaurante",
+      "coords": {
+        "lat": 48.861127,
+        "lng": 2.3431465
+      },
+      "endereco": "95 Rue Saint-Honoré, 75001 Paris",
+      "arrondissement": 1,
+      "fonte": "https://www.instagram.com/renommee_paris/",
+      "notaFixa": "Steakhouse/bistrô aberto em 2024 em prédio histórico; tem bar escondido no subsolo. Pedir: filet au poivre e escargots. Reserva difícil; chegar 17h30 para tentar sem. Almoço só sexta e sábado. Indicação do @beli_eats (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-01"
+    },
+    {
+      "id": "pmvzel6ntn9qgd",
+      "nome": "Chez Pradel",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8939453,
+        "lng": 2.3350601
+      },
+      "endereco": "168 Rue Ordener, 75018 Paris",
+      "arrondissement": 18,
+      "fonte": "",
+      "notaFixa": "Bistrô de bairro (o post chama de Brasserie Pradel). Fórmula de almoço barata, cardápio na lousa, porção generosa. Fila no almoço: reservar. Fecha domingo e segunda. Lista de brasseries do Instagram (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmvzel6o3i0az2",
+      "nome": "Le Café du Commerce",
+      "categoria": "Brasserie",
+      "coords": {
+        "lat": 48.8464167,
+        "lng": 2.2954806
+      },
+      "endereco": "51 Rue du Commerce, 75015 Paris",
+      "arrondissement": 15,
+      "fonte": "https://www.instagram.com/cafeducommerceparis/",
+      "notaFixa": "Brasserie grande em três andares em volta de um salão central com teto aberto. Cozinha clássica (confit de canard, soupe à l'oignon). Pedir mesa no 2º andar. Aberto todo dia. Lista de brasseries do Instagram (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmvzel6odb6js9",
+      "nome": "Au Pied de Cochon",
+      "categoria": "Brasserie",
+      "coords": {
+        "lat": 48.8635176,
+        "lng": 2.3437221
+      },
+      "endereco": "6 Rue Coquillière, 75001 Paris",
+      "arrondissement": 1,
+      "fonte": "https://www.instagram.com/pieddecochon/",
+      "notaFixa": "Instituição dos Halles desde 1947. Pedir: o pied de cochon, escargots, gratinée. Programa de madrugada: o post diz 24h, o Google mostra 8h às 5h. Caro pro que é. Lista de brasseries do Instagram (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmvzel6oocvzz8",
+      "nome": "Bofinger",
+      "categoria": "Brasserie",
+      "coords": {
+        "lat": 48.8539497,
+        "lng": 2.3678627
+      },
+      "endereco": "5-7 Rue de la Bastille, 75004 Paris",
+      "arrondissement": 4,
+      "fonte": "https://www.instagram.com/brasserie_bofinger/",
+      "notaFixa": "Brasserie alsaciana fundada em 1864, salão Belle Époque com cúpula de vitral. Pedir: choucroute Bofinger, frutos do mar, baba au rhum. Pedir mesa no térreo, embaixo da cúpula. Perto da Opéra Bastille. Lista de brasseries do Instagram (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmvzf6yf5cvjgs",
+      "nome": "La Tour de Montlhéry (Chez Denise)",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.861534,
+        "lng": 2.344001
+      },
+      "endereco": "5 Rue des Prouvaires, 75001 Paris",
+      "arrondissement": 1,
+      "fonte": "https://fr.gaultmillau.com/fr/restaurants/la-tour-de-montlhery",
+      "notaFixa": "Último bistrô dos antigos Halles. Porção enorme, miúdos e carne: os à moelle, rognons, andouillette, pied de porc, pot-au-feu; vinho à la ficelle. Aberto todo dia, 12h à meia-noite. Reserva só por telefone (+33 1 42 36 21 82). Comprado em 2020 pelo grupo Bertrand. O favorito do Arthur, régua dos outros.",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmvzf6yffer4or",
+      "nome": "Robert et Louise",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8590662,
+        "lng": 2.3594996
+      },
+      "endereco": "64 Rue Vieille du Temple, 75003 Paris",
+      "arrondissement": 3,
+      "fonte": "https://www.instagram.com/detourgourmand/",
+      "notaFixa": "Carne assada em fogo de lenha na sala. Pedir: côte de bœuf para dois (64€), saucisses, andouillette. Pratos de 20 a 35€. Sala pequena: reservar. Fecha terça e quarta; segunda, quinta e sexta só jantar. Busca do Claude no perfil Chez Denise; depois indicado por @detourgourmand (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmvzf6yfq22nst",
+      "nome": "Au Moulin à Vent",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8485574,
+        "lng": 2.3547648
+      },
+      "endereco": "20 Rue des Fossés Saint-Bernard, 75005 Paris",
+      "arrondissement": 5,
+      "fonte": "",
+      "notaFixa": "Bistrô à moda antiga, público local. Pedir: œuf mayo, ris de veau, os à moelle, côte de bœuf maturada. Carta de vinhos boa. Fecha domingo e segunda. Busca do Claude no perfil Chez Denise (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmvzf6yg0b9mqb",
+      "nome": "Le Balzar",
+      "categoria": "Brasserie",
+      "coords": {
+        "lat": 48.8498816,
+        "lng": 2.3433813
+      },
+      "endereco": "49 Rue des Écoles, 75005 Paris",
+      "arrondissement": 5,
+      "fonte": "",
+      "notaFixa": "Brasserie de 1890 ao lado da Sorbonne, frequentada por professores, alunos e editores. Art déco, banquettes de moleskine. Pedir: tartare, escargots, poulet rôti. Aberto todo dia, 8h30 às 23h30. Busca do Claude no perfil Chez Denise (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmvzf6ygaxut4y",
+      "nome": "Chez Paul",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.85282,
+        "lng": 2.374342
+      },
+      "endereco": "13 Rue de Charonne, 75011 Paris",
+      "arrondissement": 11,
+      "fonte": "",
+      "notaFixa": "Bistrô antigo da Bastille, aberto todo dia até 0h30: o mais parecido com o Denise no horário. Pedir: os à moelle, steak au poivre, tarte Tatin. Busca do Claude no perfil Chez Denise (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmvzf6ygknhji4",
+      "nome": "Auberge Pyrénées-Cévennes",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.867897,
+        "lng": 2.3688557
+      },
+      "endereco": "106 Rue de la Folie-Méricourt, 75011 Paris",
+      "arrondissement": 11,
+      "fonte": "",
+      "notaFixa": "Bistrô rústico do sudoeste. Pedir: cassoulet (porção enorme), ris de veau. Horário incerto no Google: ligar antes (+33 1 43 57 33 78). Cuidado com o preço da água e do vinho da casa. Busca do Claude no perfil Chez Denise (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmvzf6yguple2t",
+      "nome": "Bistrot La Renaissance",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8958439,
+        "lng": 2.3397433
+      },
+      "endereco": "112 Rue Championnet, 75018 Paris",
+      "arrondissement": 18,
+      "fonte": "",
+      "notaFixa": "Bistrô de bairro com balcão de cobre, cenário de Les Ripoux e Inglourious Basterds. Aberto todo dia, 8h às 2h. Pedir: côte de porc, tartare. Busca do Claude no perfil Chez Denise (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmvzf6yh5ssbrh",
+      "nome": "Le Mesturet",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.869075,
+        "lng": 2.33853
+      },
+      "endereco": "77 Rue de Richelieu, 75002 Paris",
+      "arrondissement": 2,
+      "fonte": "",
+      "notaFixa": "Bistrô perto da Bourse, tudo feito na casa com produto fresco. Pedir: escargots, ragoût de veau, Paris-Brest. Aberto todo dia, 12h às 23h. Busca do Claude no perfil Chez Denise (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmvzf6yhf6pa4l",
+      "nome": "Chez Savy",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.867046,
+        "lng": 2.307571
+      },
+      "endereco": "23 Rue Bayard, 75008 Paris",
+      "arrondissement": 8,
+      "fonte": "",
+      "notaFixa": "Bistrô aveyronês dos anos 1920 no Triângulo de Ouro. Pedir: steak, pâté, soupe à l'oignon. Fecha sábado e domingo. Busca do Claude no perfil Chez Denise (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmvzf6yhpvikn1",
+      "nome": "Severo",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8319919,
+        "lng": 2.3245706
+      },
+      "endereco": "8 Rue des Plantes, 75014 Paris",
+      "arrondissement": 14,
+      "fonte": "",
+      "notaFixa": "Bistrô pequeno de carne maturada, com dono à moda antiga. Pedir: steak au poivre, frites, tartare. Carta de vinhos grande. Reserva com sinal. Fecha sábado e domingo; quarta só jantar. Busca do Claude no perfil Chez Denise (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-02"
+    },
+    {
+      "id": "pmw1du2cstqizf",
+      "nome": "Dayclub Sandwich & Coffee",
+      "categoria": "Street food",
+      "coords": {
+        "lat": 48.8746267,
+        "lng": 2.3428482
+      },
+      "endereco": "12 Rue Cadet, 75009 Paris",
+      "arrondissement": 9,
+      "fonte": "https://www.instagram.com/dayclub.coffee/",
+      "notaFixa": "Café de sanduíches caseiros. Pedir: sanduíche Hera e matcha. Sanduíche 9,50€, fórmula 13,50€. Só de dia: 8h30 às 17h (fim de semana abre mais tarde). Nota Google 4,8 com só 64 avaliações, casa nova. Indicação de lista no Instagram (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-03"
+    },
+    {
+      "id": "pmw1du2csbr87h",
+      "nome": "Cāntīng",
+      "categoria": "Restaurante",
+      "coords": {
+        "lat": 48.87695,
+        "lng": 2.3326825
+      },
+      "endereco": "64 Rue Saint-Lazare, 75009 Paris",
+      "arrondissement": 9,
+      "fonte": "https://www.instagram.com/canting.club/",
+      "notaFixa": "Cantina com toque asiático, monta a bandeja. Porção grande. Fórmula a partir de 10,50€. Só almoço, 11h45 às 14h30. Fecha sábado e domingo. Indicação de lista no Instagram (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-03"
+    },
+    {
+      "id": "pmw1du2cstdi3d",
+      "nome": "Armande Lepic",
+      "categoria": "Street food",
+      "coords": {
+        "lat": 48.8851189,
+        "lng": 2.3343503
+      },
+      "endereco": "24 Rue Lepic, 75018 Paris",
+      "arrondissement": 18,
+      "fonte": "https://www.instagram.com/armandemontmartre/",
+      "notaFixa": "Sanduicheria pequena, produto de qualidade. Pedir: croque monsieur, jambon-beurre, cookie. A partir de 6€. Mesma dona do café Armande (26 Rue Tholozé), ali do lado. Indicação de lista no Instagram (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-03"
+    },
+    {
+      "id": "pmw1du2csamlax",
+      "nome": "Will's Deli",
+      "categoria": "Street food",
+      "coords": {
+        "lat": 48.8697614,
+        "lng": 2.347983
+      },
+      "endereco": "28 Rue Poissonnière, 75002 Paris",
+      "arrondissement": 2,
+      "fonte": "https://www.instagram.com/wills.deli/",
+      "notaFixa": "Deli de Nova York. Pedir: pastrami ou Reuben; cheesecake. A partir de 11€. Seg e ter só almoço; qua a sáb até 22h. Fecha domingo. Perto do Grand Rex. Indicação de lista no Instagram (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-03"
+    },
+    {
+      "id": "pmw1du2cspk8fq",
+      "nome": "Nissi",
+      "categoria": "Street food",
+      "coords": {
+        "lat": 48.8807044,
+        "lng": 2.3350537
+      },
+      "endereco": "4 Rue Pierre Fontaine, 75009 Paris",
+      "arrondissement": 9,
+      "fonte": "https://www.instagram.com/nissi.paris/",
+      "notaFixa": "Sanduíche mediterrâneo no pão chalá. A partir de 11€; prato custa mais que o sanduíche. Abre todo dia, 12h às 23h. Avaliações divididas: o pão é unanimidade, o recheio nem sempre. Indicação de lista no Instagram (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-03"
+    },
+    {
+      "id": "pmw41vemgpde2t",
+      "nome": "Maison Verot",
+      "categoria": "Charcutaria/Traiteur",
+      "coords": {
+        "lat": 48.846907,
+        "lng": 2.327144
+      },
+      "endereco": "3 Rue Notre-Dame des Champs, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "",
+      "notaFixa": "Charcutaria/traiteur de Gilles Verot, referência em pâté en croûte (premiado) e fromage de tête; também presuntos, saucisson e salsichas. Caro, qualidade alta. Ter a sáb 9h às 20h (sáb até 19h30); fecha dom e seg. Tel. 01 45 48 83 32. Indicação de story no Instagram (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-05"
+    },
+    {
+      "id": "pmw42gaumjwjba",
+      "nome": "Fromagerie Chez Alexandre",
+      "categoria": "Fromagerie",
+      "coords": {
+        "lat": 48.8491523,
+        "lng": 2.3253979
+      },
+      "endereco": "19 Rue Saint-Placide, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "",
+      "notaFixa": "Fromagerie de bairro com seleção ampla, forte em queijos de montanha de ovelha e em azuis. Deixa provar antes de comprar e embala a vácuo para viagem. Preço considerado justo. Seg 9h30 às 13h30 e 15h às 19h30; ter a sáb 9h30 às 19h30; fecha dom. Tel. 01 43 35 84 36. Indicação do Instagram (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-05"
+    },
+    {
+      "id": "pmw5mbevy486k2",
+      "nome": "Rôtisserie Cot Cot Gardette",
+      "categoria": "Restaurante",
+      "coords": {
+        "lat": 48.8613459,
+        "lng": 2.3803385
+      },
+      "endereco": "22 Rue Rochebrune, 75011 Paris",
+      "arrondissement": 11,
+      "fonte": "",
+      "notaFixa": "Rôtisserie de bairro tocada pelo dono, perto do square Maurice-Gardette. Frango assado no espeto com acompanhamento e molho (meio frango com acompanhamento por volta de 15 euros); dá para comer lá ou levar. Peça as asas, que saem crocantes. Há relato de frango duro e de preço maior para estrangeiro: confira o preço no cardápio. Seg 11h30 às 15h; ter a sex 11h30 às 15h e 17h às 21h; sáb 11h30 às 21h; dom 11h30 às 16h. Tel. 09 81 89 47 40. Pesquisa do Claude (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-06"
+    },
+    {
+      "id": "pmw5mbew8z99c0",
+      "nome": "Boucherie Bréa",
+      "categoria": "Charcutaria/Traiteur",
+      "coords": {
+        "lat": 48.8427713,
+        "lng": 2.3300581
+      },
+      "endereco": "21 Rue Bréa, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "https://paris.evous.fr/une-saveur/ou-acheter-les-meilleures-volailles.html",
+      "notaFixa": "Açougue de bairro em Vavin com frango das Landes no espeto: pele crocante, carne macia. Só para levar; programa de domingo de manhã, como os parisienses. Poucas avaliações, e uma reclamação forte de um capão de Natal caro. Ter a sáb 8h30 às 13h e 15h30 às 19h30; dom 8h30 às 13h; fecha seg. Tel. 01 43 26 51 33. Pesquisa do Claude (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-06"
+    },
+    {
+      "id": "pmw5mbewi2l52g",
+      "nome": "Rôtisserie Stévenot (Cadet)",
+      "categoria": "Charcutaria/Traiteur",
+      "coords": {
+        "lat": 48.8746814,
+        "lng": 2.3427087
+      },
+      "endereco": "7 Rue Cadet, 75009 Paris",
+      "arrondissement": 9,
+      "fonte": "",
+      "notaFixa": "Rôtisseur com frango Label Rouge, na rua de comércio da Cadet. Frango de bairro, não de chef: inteiro ou meio, com batata. As costelinhas de porco também são elogiadas. Só para levar, e há quem reclame de frango seco. Seg a sex 8h30 às 14h30 e 16h30 às 20h20; sáb até 20h20 com pausa à tarde; dom 8h30 às 14h45. Tel. 01 71 76 31 71. Tem filiais no 3e (Rue de Bretagne) e no 2e (Montorgueil), mais fracas no Google. Pesquisa do Claude (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-06"
+    },
+    {
+      "id": "pmw5mbews05a87",
+      "nome": "L'Arrière-Cuisine",
+      "categoria": "Street food",
+      "coords": {
+        "lat": 48.8335107,
+        "lng": 2.3239181
+      },
+      "endereco": "179 Rue du Château, 75014 Paris",
+      "arrondissement": 14,
+      "fonte": "",
+      "notaFixa": "Anexo do L'Assiette, de David Rathgeber (o do cassoulet), colado no restaurante. Sanduíches de comida de rua inspirada em viagens; o famoso é o de frango assado, com fritas. Lugar pequeno, sem reserva, meio mercearia e brechó. Horário: almoço até o fim da tarde, de quarta a domingo (confirmar antes, o Google não mostra horário). Tel. 01 40 49 02 13. Pesquisa do Claude (nov/2026).",
+      "diario": [],
+      "adicionadoEm": "2026-11-06"
+    }
+  ]
 }
