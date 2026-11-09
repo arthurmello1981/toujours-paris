@@ -264,7 +264,15 @@
       "arrondissement": 6,
       "fonte": "https://www.polidor.com/",
       "notaFixa": "Crémerie aberta em 1845, bistrô desde 1890. Verlaine, Rimbaud, Joyce e Hemingway comiam aqui; aparece em Midnight in Paris. Mesas compartilhadas, cozinha de bistrô clássica (œufs mayo, bœuf bourguignon, confit de canard, tarte Tatin). Preço baixo pro bairro. Historicamente não aceitava cartão: levar dinheiro.",
-      "diario": [],
+      "diario": [
+        {
+          "data": "2026-11-09",
+          "rating": 0,
+          "companhia": "",
+          "pedido": "tarte Tatin",
+          "texto": "A tarte Tatin é espetacular."
+        }
+      ],
       "adicionadoEm": "2026-10-25"
     },
     {
