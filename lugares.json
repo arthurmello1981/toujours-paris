@@ -889,6 +889,36 @@
       "notaFixa": "Bistrô de bairro no Faubourg Saint-Germain, perto do metrô Rue du Bac, com salão antigo preservado: paredes mostarda, banquetas de couro, piso de ladrilho e a velha cabine telefônica. Cozinha burguesa de lousa: oeuf mimosa, poireaux vinaigrette, tartare, rognons de veau à la moutarde, foie de veau; de sobremesa riz au lait e île flottante. Carta por volta de 35 a 55 euros. Seg a sex 10h às 23h30; sáb 9h à meia-noite; fecha dom. Reserva recomendada. Tel. 01 42 22 06 57. Indicação do Arthur (nov/2026).",
       "diario": [],
       "adicionadoEm": "2026-11-09"
+    },
+    {
+      "id": "pmw9gw5ako8hhs",
+      "nome": "Le Monteverdi",
+      "categoria": "Restaurante",
+      "coords": {
+        "lat": 48.8518912,
+        "lng": 2.3349295
+      },
+      "endereco": "5-7 Rue Guisarde, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "https://parisjetaime.com/restaurant/le-monteverdi-p733",
+      "notaFixa": "Italiano aberto em 1974, numa ruela ao lado da Rue Princesse. Pianista toda noite (exceto segunda) e música ao vivo sexta e sábado. Ambiente é o forte; a comida divide opinião e o preço é puxado. Jantar todos os dias; domingo abre também no almoço. Reservar.",
+      "diario": [],
+      "adicionadoEm": "2026-11-09"
+    },
+    {
+      "id": "pmw9gw5akolj4m",
+      "nome": "Marcello",
+      "categoria": "Restaurante",
+      "coords": {
+        "lat": 48.8523771,
+        "lng": 2.3350184
+      },
+      "endereco": "8 Rue Mabillon, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "https://www.marcello-paris.com",
+      "notaFixa": "Italiano no pátio de paralelepípedo abaixo do nível da Rue Mabillon (antiga La Petite Cour), colado ao Marché Saint-Germain. Terraço tranquilo. Arancini de trufa, tagliolini com vôngole e bottarga. Pratos de 21 a 45 €. Abre todo dia, inclusive domingo e agosto.",
+      "diario": [],
+      "adicionadoEm": "2026-11-09"
     }
   ]
 }
