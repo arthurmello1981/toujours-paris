@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizadoEm": "2026-11-09",
+  "atualizadoEm": "2026-11-15T17:08:01Z",
   "lugares": [
     {
       "id": "p001",
@@ -919,6 +919,36 @@
       "notaFixa": "Italiano no pátio de paralelepípedo abaixo do nível da Rue Mabillon (antiga La Petite Cour), colado ao Marché Saint-Germain. Terraço tranquilo. Arancini de trufa, tagliolini com vôngole e bottarga. Pratos de 21 a 45 €. Abre todo dia, inclusive domingo e agosto.",
       "diario": [],
       "adicionadoEm": "2026-11-09"
+    },
+    {
+      "id": "p4d5j6xzmqynt9",
+      "nome": "Casa Cardito",
+      "categoria": "Restaurante",
+      "coords": {
+        "lat": 48.8845222,
+        "lng": 2.2781765
+      },
+      "endereco": "34 Rue Perronet, 92200 Neuilly-sur-Seine",
+      "arrondissement": null,
+      "fonte": "https://www.instagram.com/casacardito/",
+      "notaFixa": "Italiano em Neuilly-sur-Seine, fora de Paris (perto da Porte Maillot / 17e). Do Groupe Cardito, menu assinado pelo chef Julien Serri; restaurante, coquetéis e privatização. Pedir: pizza de burrata, pasta Cardito, tiramisu; arancini de trufa no Instagram. Abre todo dia, 12h às 14h30 e 19h às 22h30. Tel. +33 1 46 24 08 07.",
+      "diario": [],
+      "adicionadoEm": "2026-11-15"
+    },
+    {
+      "id": "pirqzdmbezhdwu",
+      "nome": "Les Fous de l'Île",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8522167,
+        "lng": 2.3567528
+      },
+      "endereco": "33 Rue des Deux Ponts, 75004 Paris",
+      "arrondissement": 4,
+      "fonte": "https://maps.google.com/?cid=Les+Fous+de+l%27Ile",
+      "notaFixa": "Bistrô na Île Saint-Louis. Clássicos franceses: tartare de boeuf, cuisses de grenouille, soupe à l'oignon, entrecôte com fritas. Abre todo dia, 10h à meia-noite. Freguesia bem turística (ilha). Conferir preço do vinho em taça (pequena x grande). Tel. +33 1 43 25 76 67.",
+      "diario": [],
+      "adicionadoEm": "2026-11-15"
     }
   ]
 }
