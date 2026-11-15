@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizadoEm": "2026-11-15T17:08:01Z",
+  "atualizadoEm": "2026-11-15T17:08:52Z",
   "lugares": [
     {
       "id": "p001",
@@ -945,7 +945,7 @@
       },
       "endereco": "33 Rue des Deux Ponts, 75004 Paris",
       "arrondissement": 4,
-      "fonte": "https://maps.google.com/?cid=Les+Fous+de+l%27Ile",
+      "fonte": "",
       "notaFixa": "Bistrô na Île Saint-Louis. Clássicos franceses: tartare de boeuf, cuisses de grenouille, soupe à l'oignon, entrecôte com fritas. Abre todo dia, 10h à meia-noite. Freguesia bem turística (ilha). Conferir preço do vinho em taça (pequena x grande). Tel. +33 1 43 25 76 67.",
       "diario": [],
       "adicionadoEm": "2026-11-15"
