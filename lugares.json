@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizadoEm": "2026-11-15T17:08:52Z",
+  "atualizadoEm": "2026-11-17T18:09:48Z",
   "lugares": [
     {
       "id": "p001",
@@ -949,6 +949,36 @@
       "notaFixa": "Bistrô na Île Saint-Louis. Clássicos franceses: tartare de boeuf, cuisses de grenouille, soupe à l'oignon, entrecôte com fritas. Abre todo dia, 10h à meia-noite. Freguesia bem turística (ilha). Conferir preço do vinho em taça (pequena x grande). Tel. +33 1 43 25 76 67.",
       "diario": [],
       "adicionadoEm": "2026-11-15"
+    },
+    {
+      "id": "pmwl0bvsadvczl",
+      "nome": "Cyprien",
+      "categoria": "Padaria/Pâtisserie",
+      "coords": {
+        "lat": 48.8804525,
+        "lng": 2.3352398
+      },
+      "endereco": "64 Rue Notre-Dame-de-Lorette, 75009 Paris",
+      "arrondissement": 9,
+      "fonte": "https://fr.gaultmillau.com/fr/artisans/cyprien-shop",
+      "notaFixa": "Boulangerie em Pigalle (SoPi). Pain de mie da casa. Gault&Millau destaca as fórmulas baratas de café da manhã e almoço. Abre todo dia, 7h às 20h.",
+      "diario": [],
+      "adicionadoEm": "2026-11-17"
+    },
+    {
+      "id": "pmwl0bvsaetau8",
+      "nome": "Bistro Le Coeur",
+      "categoria": "Bistrô",
+      "coords": {
+        "lat": 48.8888851,
+        "lng": 2.3434712
+      },
+      "endereco": "25 Rue Lamarck, 75018 Paris",
+      "arrondissement": 18,
+      "fonte": "",
+      "notaFixa": "Bistrô na encosta norte de Montmartre, fora do miolo turístico. Mais caprichado que bistrô de balcão. Cozinha contínua todo dia, 11h30 às 23h30 (sáb e dom desde 9h30). Tel. +33 1 46 06 53 57.",
+      "diario": [],
+      "adicionadoEm": "2026-11-17"
     }
   ]
 }
