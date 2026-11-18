@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizadoEm": "2026-11-17T18:09:48Z",
+  "atualizadoEm": "2026-11-18T17:42:03Z",
   "lugares": [
     {
       "id": "p001",
@@ -977,6 +977,21 @@
       "arrondissement": 18,
       "fonte": "",
       "notaFixa": "Bistrô na encosta norte de Montmartre, fora do miolo turístico. Mais caprichado que bistrô de balcão. Cozinha contínua todo dia, 11h30 às 23h30 (sáb e dom desde 9h30). Tel. +33 1 46 06 53 57.",
+      "diario": [],
+      "adicionadoEm": "2026-11-17"
+    },
+    {
+      "id": "pmwmes1p4orrn3",
+      "nome": "Bopain (Assas)",
+      "categoria": "Padaria/Pâtisserie",
+      "coords": {
+        "lat": 48.8475064,
+        "lng": 2.3301212
+      },
+      "endereco": "31 Rue d'Assas, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "",
+      "notaFixa": "Boulangerie bio perto do Luxembourg. Unidade de uma rede (Bopain tem casas no 11e, 12e, 16e e Rennes). Destaque: feuilletée de pandan e de praliné. Café de máquina, fraco. Seg a sáb, 7h30 às 20h; fecha domingo. Tel. +33 9 62 62 98 93.",
       "diario": [],
       "adicionadoEm": "2026-11-17"
     }
