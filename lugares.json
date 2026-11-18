@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizadoEm": "2026-11-18T17:42:03Z",
+  "atualizadoEm": "2026-11-18T17:42:23Z",
   "lugares": [
     {
       "id": "p001",
@@ -992,6 +992,21 @@
       "arrondissement": 6,
       "fonte": "",
       "notaFixa": "Boulangerie bio perto do Luxembourg. Unidade de uma rede (Bopain tem casas no 11e, 12e, 16e e Rennes). Destaque: feuilletée de pandan e de praliné. Café de máquina, fraco. Seg a sáb, 7h30 às 20h; fecha domingo. Tel. +33 9 62 62 98 93.",
+      "diario": [],
+      "adicionadoEm": "2026-11-17"
+    },
+    {
+      "id": "pmwmesgy93k174",
+      "nome": "Sôma Sando",
+      "categoria": "Restaurante",
+      "coords": {
+        "lat": 48.8486011,
+        "lng": 2.3319953
+      },
+      "endereco": "62 Rue de Vaugirard, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "",
+      "notaFixa": "Sandos e bentôs japoneses ao lado do Luxembourg. Ter a dom 11h30 às 21h30, fecha segunda. Nota 4,2 no Google, com queixas de comida seca e serviço ríspido. Tel. +33 1 45 48 40 45.",
       "diario": [],
       "adicionadoEm": "2026-11-17"
     }
