@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizadoEm": "2026-11-18T17:42:23Z",
+  "atualizadoEm": "2026-11-20T17:51:16.000Z",
   "lugares": [
     {
       "id": "p001",
@@ -1009,6 +1009,22 @@
       "notaFixa": "Sandos e bentôs japoneses ao lado do Luxembourg. Ter a dom 11h30 às 21h30, fecha segunda. Nota 4,2 no Google, com queixas de comida seca e serviço ríspido. Tel. +33 1 45 48 40 45.",
       "diario": [],
       "adicionadoEm": "2026-11-17"
+    },
+    {
+      "id": "pmwp9zlcjglkka",
+      "nome": "Muku (Comptoir Japonais)",
+      "categoria": "Restaurante",
+      "coords": {
+        "lat": 48.8530698,
+        "lng": 2.3422188
+      },
+      "endereco": "8 Rue Suger, 75006 Paris",
+      "arrondissement": 6,
+      "fonte": "https://www.google.com/maps/place/?q=place_id:ChIJXa2HwVBx5kcRyJc8T9Hu1kQ",
+      "notaFixa": "Comptoir japonês pequeno e calmo, perto de Saint-Michel. Chirashi com arroz avinagrado muito elogiado, peixe de qualidade, sashimi e nigiri; prato do dia no almoço (ex.: curry japonês). Ter a sáb, 12h-14h e 19h-23h; fecha dom e seg. Pequeno: reservar (+33 1 42 01 77 85).",
+      "status": "fui",
+      "diario": [],
+      "adicionadoEm": "2026-11-20"
     }
   ]
 }
